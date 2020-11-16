@@ -10,23 +10,23 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		K+9SlgGbjOE7uH96xJ0ddHiRLCE=
+		j6yJKB5q2ds1zVsFYfzQtPKzn8o=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		IML5ExgWpZNjDI+ZY5f+gvnreWU=
+		zpJaAUQlCzu2daR13GdDs2YuD5U=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		M/k1ZNPSNd/ylkkN7dxboAjSgkg=
+		ZlUMO3Upp+OKQalB+d2hh9Lse64=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		K6xa76vUoNnqOWoUfp9BFvuNdQM=
+		1wIKryg5Xcn/k/xmM1vRcZRgKJY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		2pSFxtgHEl7xaD31VJQ3nBe5dtY=
+		8+33U+mGinH3gkpruSB4hDu794I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -179,10 +179,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			P2GjBItPp3oPTSjjz5z8z8CNC4M=
+			d35m7R7dzkbTIjg55vzUZadDzj8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"3f61a3048b4fa77a0f4d28e3cf9cfccfc08d0b83"</string>
+			<string>cdhash H"777e66ed1eddce46d3223839e6fcd465a743ce3f"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -195,35 +195,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NJpg4ByFviHfF6THvkaUyLdwGdypsKk+qUFp55vR/tM=
+			YiSb6fYqpiTVXARP+0mCwH/X6HtScOfRsd6a/n2Vpp4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b+Ep+Th++6CRs6rhPFDmH702cWdl1vWQJ36QUK2r4/s=
+			LUjopLvUeMQYPAS/iZxVKUHZxdEOkTcY7Zt0FwhQNOc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LI78pJ3lmoA62/2y9tzJBco2y6ZBtzyn5AHDbf9hv0c=
+			ASKcnt9gPfAdE7TByBariz5/zkjDKHIlSDO8nvh9G84=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZYBagMoLbbEnCprMeWzRvpcn+a/HSJNWaxTX3qj1urM=
+			x6+vzcE6PjuxMK6pYs32uQGMhMaT12jf7U207MyQ4+4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uCe5SiruEXalnsgpPgE7CNMxDJKkeJD5yOMnAGBloF8=
+			tEcozQwcGZKhtalZvOflO4fI6iiq1Es/Bp/YdQ37bRk=
 			</data>
 		</dict>
 	</dict>

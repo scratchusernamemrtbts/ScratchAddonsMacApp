@@ -6,63 +6,71 @@
 	<dict>
 		<key>Resources/addon-api/background/Addon.js</key>
 		<data>
-		kw//b1VS1YVzqxQUzzQ3VtkrPZU=
+		2lLzK8Fi6PPAC4yMXK5TNFn7Fgc=
 		</data>
 		<key>Resources/addon-api/background/Badge.js</key>
 		<data>
-		d9sDIc56A4utlYXT67Exgi6eRh0=
+		quigW5fmxYq+H53dzq4JEl4ku5c=
 		</data>
 		<key>Resources/addon-api/background/Notifications.js</key>
 		<data>
-		uIKMkHu++tdgsEaigCTf63heykc=
+		YxtA6wAgLmlncbyVvoPaEyD3s60=
 		</data>
 		<key>Resources/addon-api/common/Account.js</key>
 		<data>
-		0wjqT/m84+twLqwYU2CdWfx5Yu4=
+		yy+l+NAVjneGKLuXmcUr8GK7gHI=
 		</data>
 		<key>Resources/addon-api/common/Auth.js</key>
 		<data>
-		7alEubaxeEn/DdGbmKjHti2/5YU=
+		JKiYbjrhsyOnBErF0Ur0dNKkCYs=
 		</data>
 		<key>Resources/addon-api/common/Settings.js</key>
 		<data>
-		D7ovRjcPLHmepOvcVv4StX0QVnA=
+		CGDsM/puN4Ax792yPJdQMGmYKXQ=
 		</data>
 		<key>Resources/addon-api/common/fetch.js</key>
 		<data>
-		HZxJl56y8zZ/EAaNQ+PDPc2NZwg=
+		ifECXiXyrN2iRneZWCjCKEZ9IfI=
 		</data>
 		<key>Resources/addon-api/content-script/Addon.js</key>
 		<data>
-		RfJ0PAJ0qGA4Wx2HFKjc9fOMsNY=
+		pqvLRz2l/05owYFI/K9lqP4AlnM=
 		</data>
 		<key>Resources/addon-api/content-script/ReduxHandler.js</key>
 		<data>
-		qGPPmr/WNk8IrY97KBQTUBC4VPU=
+		gnHBfwcYp+L6awVWwU2E6mIlTWo=
 		</data>
 		<key>Resources/addon-api/content-script/Tab.js</key>
 		<data>
-		MTKDdxekUWvRs2HyRfKzeikfG0Y=
+		f37UCRiFMq3hMYNMgM4DKtknd5E=
 		</data>
 		<key>Resources/addon-api/content-script/Trap.js</key>
 		<data>
-		i2EleFdIwqkCTdFGkoMSLfEs14o=
+		rf5Y1D+qrokFnLpstsLBcCNB6y0=
 		</data>
 		<key>Resources/addons/60fps/addon.json</key>
 		<data>
-		2IaXDKuhbxSCFJNoHnHInOtt54E=
+		RMTV0eZWduOfRAB6i1MIEVQT5N8=
 		</data>
 		<key>Resources/addons/60fps/userscript.js</key>
 		<data>
-		67l8skwqbD9qsA1rRqZIPq43xcM=
+		S9MRt4LbrjaAav79DEr7sCXaj2g=
 		</data>
 		<key>Resources/addons/addons.json</key>
 		<data>
-		xFWNSD4vHuwH5/bV1tGZ+/B+8oo=
+		j8OOcdxYWSmG4m3F0XlfG9zVdHA=
+		</data>
+		<key>Resources/addons/animated-thumb/addon.json</key>
+		<data>
+		ZV3aRsmFWVqiPWW5LlBOonXblfs=
+		</data>
+		<key>Resources/addons/animated-thumb/userscript.js</key>
+		<data>
+		FTGItdHwOoCp4zGPCELWo51Q7dk=
 		</data>
 		<key>Resources/addons/better-emojis/addon.json</key>
 		<data>
-		/hf0TNET+LkhMooxGU7fDYbny1o=
+		6XH6TlZlL8L3Doh7XQLk0Zb820c=
 		</data>
 		<key>Resources/addons/better-emojis/images/aww-cat.svg</key>
 		<data>
@@ -114,363 +122,419 @@
 		</data>
 		<key>Resources/addons/better-emojis/userscript.js</key>
 		<data>
-		Luddm1+P7QjkvSwY7B1HehhSQIY=
+		kUOkRhq9UW/9KKc25wo8/TeTZMg=
 		</data>
 		<key>Resources/addons/bitmap-copy/addon.json</key>
 		<data>
-		MKH8UTsicIH9ZJAjJT3M8LTsFas=
+		0DVCS3Dkk5nUNszXA4A0rMW4cy8=
 		</data>
 		<key>Resources/addons/bitmap-copy/userscript.js</key>
 		<data>
-		Gnc/2gkHu9/NiT96GoWc0A3nLyg=
+		h7WdEyPBkPxlPFR20cnESRM1eos=
 		</data>
 		<key>Resources/addons/clones/300cats.svg</key>
 		<data>
-		1jvp83Xd+TEaFejnTaiKo6grvkw=
+		4/rjTy6Dg/4nUeKT+DT7/iC9RW8=
 		</data>
 		<key>Resources/addons/clones/addon.json</key>
 		<data>
-		lQYaRXouiolZPyzoNP/6SWZ83V0=
+		utNtBOpw2oktcAlB/2rhUw6PK6Q=
 		</data>
 		<key>Resources/addons/clones/cat.svg</key>
 		<data>
-		+NN6wHm9qOk3hcjx27O35QTgEnU=
+		Gj/EhNCD/j/HeIvZhqqKPoiJKqY=
 		</data>
 		<key>Resources/addons/clones/style.css</key>
 		<data>
-		3RjppjgNYQGVAiN1U0kpiZDZsCo=
+		jyUDh4Jpe2AqFGSUFnCisrKvq50=
 		</data>
 		<key>Resources/addons/clones/userscript.js</key>
 		<data>
-		cbuKGqN423XxfjkXe2C3z8tqcZc=
+		v2Cc2jnPGSiViEaaTTIYK4EgLIQ=
 		</data>
 		<key>Resources/addons/cloud-games/addon.json</key>
 		<data>
-		wbLLyTFXJv02q3j0CUWPtSRSR2A=
+		eqjOqvVDUFOJAdvWU0ha2tyCeZc=
 		</data>
 		<key>Resources/addons/dark-www/addon.json</key>
 		<data>
-		oqVH5DwahiGA+ksC+ZeZdaViI+Y=
+		f1qOx0DdobyT1AImGExTxUDbGZ8=
 		</data>
 		<key>Resources/addons/dark-www/dark-www.css</key>
 		<data>
-		eTVZiI0BLnKJgwA9kCLQz1Ywfbk=
+		x9O2+3mTCPUUMnfNLPz9hKSNXUQ=
 		</data>
 		<key>Resources/addons/discuss-button/addon.json</key>
 		<data>
-		pdTjzCjAbPpMc4/wiXx2g8xy29A=
+		4c1EpytguwzFWJMGozFCShsMzGE=
 		</data>
 		<key>Resources/addons/discuss-button/userscript.js</key>
 		<data>
-		4PULI5Fy+8YRUXQHn5t6sKvFnEQ=
+		Rjf79goOpsVis0GmdDJl0C1DIHU=
 		</data>
 		<key>Resources/addons/editor-colored-context-menus/addon.json</key>
 		<data>
-		JgWQBAzesE/ab1HySRrLnGiUaC8=
+		AMdkHrRVbjCOXd9S1mAoLNx9vjE=
 		</data>
 		<key>Resources/addons/editor-colored-context-menus/userscript.css</key>
 		<data>
-		uLwqZRngg64o8NBArRlkor8JWJY=
+		0ajHocwvCBwI7x5srA2kJJD/hgE=
 		</data>
 		<key>Resources/addons/editor-colored-context-menus/userscript.js</key>
 		<data>
-		KLy/A4ks8j12PICvTzAw3mTohvY=
+		scl1Y/PIOFV17b4fIy7K4cyNa4g=
 		</data>
 		<key>Resources/addons/editor-dark-mode/3dark.css</key>
 		<data>
-		hai6scOGuMDCDdUDfX8Vkq5UHQo=
+		1FIYFZX2yC1JEtLeSNt8hRiK+YE=
 		</data>
 		<key>Resources/addons/editor-dark-mode/3darker.css</key>
 		<data>
-		Bx7Eou1oNiilP85wL0ZSMAZAykw=
+		cXmU7l252IOrEZ0A63jpTAAUTRQ=
 		</data>
 		<key>Resources/addons/editor-dark-mode/addon.json</key>
 		<data>
-		Ita+vRY2iYQV/WVkhZQlP55Qleo=
+		4DzVizw3P9u7MrGIzLJWJ2FyXgM=
 		</data>
 		<key>Resources/addons/editor-dark-mode/dark-editor.css</key>
 		<data>
-		XohSRdjxLVeGS4JgtkimPSBP2Dk=
+		GgYyYEsVgkbhuJJYPYWfcymdtiw=
 		</data>
 		<key>Resources/addons/editor-dark-mode/global.css</key>
 		<data>
-		YmxcorKeV5NWY6dKlcan5xBAeZQ=
+		fOacikr5/SDEYDjcsBTw5RVtx5U=
 		</data>
 		<key>Resources/addons/editor-dark-mode/text-shadow.css</key>
 		<data>
-		MXKYg4Q55wOA/SsSIxvCm1P2jTA=
+		b3AfLOiPUBohA5FMreMYNX/8Sdo=
 		</data>
 		<key>Resources/addons/editor-devtools/addon.json</key>
 		<data>
-		/bcjenySZ4ST8xiXTDO04ucK31o=
+		l/XC3lSouU+zBd1OJ3TSj+ZWizs=
 		</data>
 		<key>Resources/addons/editor-devtools/userscript.css</key>
 		<data>
-		F2yyt1lNDd6g4NVAHKGD6EmemhQ=
+		d7MC8+F4F9hwVw+E+MTWb9v+Bt4=
 		</data>
 		<key>Resources/addons/editor-devtools/userscript.js</key>
 		<data>
-		XrKyl5fZi15XCeqUexZ8XA0EVdk=
+		sqxQSPfR35OZH40je1+S+SeI6xw=
 		</data>
 		<key>Resources/addons/editor-searchable-dropdowns/addon.json</key>
 		<data>
-		INTgJZH0dJJZMhV4xzaC6jSoosQ=
+		xYWXcTCTyG2N5mKRLV9T6d4Qflg=
 		</data>
 		<key>Resources/addons/editor-searchable-dropdowns/userscript.css</key>
 		<data>
-		YvbxGY8E7rMeWNXrTL0WRVs39kI=
+		+UrMhfTnyjFYvuQnr/EW1r/vWU4=
 		</data>
 		<key>Resources/addons/editor-searchable-dropdowns/userscript.js</key>
 		<data>
-		LIrJBrTg6hx7bjdV4cHI3fWsxcw=
+		J4tfAThNcUD2pFKNaJESySsycJI=
 		</data>
 		<key>Resources/addons/editor-stage-left/addon.json</key>
 		<data>
-		hgGLL0oCyJLizsQorGM00IIVZ4E=
+		OaBnBre+4bni2i/M0uJOnDsDnLc=
 		</data>
 		<key>Resources/addons/editor-stage-left/fix-share-the-love.js</key>
 		<data>
-		dW9Ddt8LAknYEEo4PlIMzUpOSws=
+		vMv9Fl5r07ltTnOPjS6iN1qAoKk=
 		</data>
 		<key>Resources/addons/editor-stage-left/stageleft.css</key>
 		<data>
-		viPa5YzjphlmbbQOGjYmP4DQ+I8=
+		aT2fUMeXbjcYjQn0ASwMvTK0/LU=
 		</data>
 		<key>Resources/addons/editor-stepping/addon.json</key>
 		<data>
-		EWK8mU5+YiXW7kFuOAxj3AiTHY8=
+		64Gl7WCgMfK14QTB+C5/0Ak6hk8=
 		</data>
 		<key>Resources/addons/editor-stepping/userscript.js</key>
 		<data>
-		qzUjSR3cwbVJt7MTHAswlJEVhsg=
+		JfUg/tlRjJQ/eqAzH2ygKeWRjdo=
 		</data>
 		<key>Resources/addons/editor-theme3/addon.json</key>
 		<data>
-		NGcE8+1oI6c3AqciB+nWsZUD1FM=
+		C86ECYlsYeIgRkhRJIATUWADUPM=
 		</data>
 		<key>Resources/addons/editor-theme3/theme3.css</key>
 		<data>
-		If8a+DvOWgf0/nVWvSvDt2TA78g=
+		SW09TCHjgtjpUphdizX8l6C1Sck=
 		</data>
 		<key>Resources/addons/editor-theme3/theme3.js</key>
 		<data>
-		jlgqtSRXIoSk45vm8Nlp29ax+hI=
+		3YQfA/e6ZG809GN48kQ0zJp0FQw=
 		</data>
 		<key>Resources/addons/exact-count/addon.json</key>
 		<data>
-		PLw0q2BjMdbl57OiHkAY3jVvxsY=
+		uNradSTdlB3UMmzZXyGz7lZu9ms=
+		</data>
+		<key>Resources/addons/exact-count/forum.js</key>
+		<data>
+		uLitG2VJ0vzDF9DbXGk2xoabeY8=
 		</data>
 		<key>Resources/addons/exact-count/studio.js</key>
 		<data>
-		YD0p7Z7yUo07wqvxescEvVO6PZM=
+		NSybuj6OS9yC1WAk6jsZzBBgz1g=
 		</data>
 		<key>Resources/addons/exact-count/user.js</key>
 		<data>
-		mxQA3njcH3yxbcRfOsXxRNkcxFk=
+		/bj1V3WQdU9Kw7gqYIdy9YXYtSs=
 		</data>
 		<key>Resources/addons/forum-search/addon.json</key>
 		<data>
-		yf6nGcAoWbbCXlcb/6nlJ5nsRmY=
+		p2pn898tiC+6T1K+I+a810QjLv0=
 		</data>
 		<key>Resources/addons/forum-search/userscript.css</key>
 		<data>
-		DCwQn3Lq8klBYZkmXrgm/u/aF3Q=
+		pvek33PGBUfhaJGtpWpDPQ9EnQU=
 		</data>
 		<key>Resources/addons/forum-search/userscript.js</key>
 		<data>
-		1DmDvhebUAxBzGjHMSQGQ/YkBmI=
+		4jDzwcXey3fMo1mXqViaF42jbOY=
 		</data>
 		<key>Resources/addons/forum-time-zones/addon.json</key>
 		<data>
-		gU2nSqEp3VKOu4iUI35W7Gc5tl0=
+		dcVb6AcEW4VPYwoJNVSziKyFwOk=
 		</data>
 		<key>Resources/addons/forum-time-zones/userscript.js</key>
 		<data>
-		4r32llRgvfIyv2ZPTaJ7jyN7yYU=
+		TUC8PY3FmrdxRB3c9YkwbM/pfzc=
 		</data>
 		<key>Resources/addons/full-signature/addon.json</key>
 		<data>
-		RgrQ3sFGsCsUG6FPnjHWXsAtIMc=
+		OMq6rsjs0aUfNXM2uoQ7tWirrg4=
 		</data>
 		<key>Resources/addons/full-signature/signature.css</key>
 		<data>
-		NoiTXS47mMvF28fxNcs9oIZLXa4=
+		/NzrnyWji1jwYIxVEIzb/cCz6AY=
 		</data>
 		<key>Resources/addons/full-signature/working.css</key>
 		<data>
-		xzkcSAeHTHKdU/Hbv8lZ8YPZWr8=
+		ppsTMK66n9Wem1ZYj3Dk/nxS1+8=
+		</data>
+		<key>Resources/addons/full-signature/working.js</key>
+		<data>
+		uzBs4Hi4BAP1Z/EiHaUUrfk7k74=
 		</data>
 		<key>Resources/addons/image-uploader/addon.json</key>
 		<data>
-		jwXZ2dCL9Q0FpulDbR20exdJ3O0=
+		P9EZrC5cY0Zx17F0fwrpRGkXOxo=
 		</data>
 		<key>Resources/addons/image-uploader/text-field-edit.js</key>
 		<data>
-		Q5JxIjICrw6z/19PgJkG6ujDFsY=
+		NXkqcz4mi1Hwr11KUALeUXaTkTc=
 		</data>
 		<key>Resources/addons/image-uploader/userscript.js</key>
 		<data>
-		j5mcAAeD1Clw31Abla3h+YqBebk=
+		dQqNwAoHT9nDv8cbMVeADhN7zos=
 		</data>
 		<key>Resources/addons/infinite-scroll/addon.json</key>
 		<data>
-		Y6ud8Yy4+7KN5if1HfBTpyQve+o=
+		/dteteijbrOILSQagCdLTKHucMo=
 		</data>
 		<key>Resources/addons/infinite-scroll/buttonScroll.js</key>
 		<data>
-		Y1I+RNCC63vcMRCPlxT36sm7nUQ=
+		fxSYfmfjQJCT+rPYTFSZTnJBwSA=
 		</data>
 		<key>Resources/addons/infinite-scroll/forumScroll.js</key>
 		<data>
-		sxps/NQ+fUuCNRIojY5/JwxMKwg=
+		eiQ3nw4FZc6xfqXcS9ieBj7XrTo=
 		</data>
 		<key>Resources/addons/infinite-scroll/userscript.css</key>
 		<data>
-		I0EqrFyMyCLBR8O2kUnJv7w8Cdg=
+		j49npprgF4GAxN/It6CFlUsvsrQ=
 		</data>
 		<key>Resources/addons/last-edit-tooltip/addon.json</key>
 		<data>
-		IHq+dY9HEM8I9TFfMn/2S86zWEU=
+		8VgE5F8wBF1aBvROj31Rojrh4jI=
 		</data>
 		<key>Resources/addons/last-edit-tooltip/userscript.js</key>
 		<data>
-		Q7wcRrVpslePChDTRv29oSNXyTE=
+		OvpzQceqJUdMoQYP49k4wAqBpCA=
+		</data>
+		<key>Resources/addons/live-featured-project/addon.json</key>
+		<data>
+		9m1VRCnf8CmElAbuclPBoV2DW8w=
+		</data>
+		<key>Resources/addons/live-featured-project/script.js</key>
+		<data>
+		heEAKLAl+97O7t8/bCt0+qvWVvk=
+		</data>
+		<key>Resources/addons/live-featured-project/style.css</key>
+		<data>
+		awMoH3bdhwjvMzLSAZfajZkBfw4=
 		</data>
 		<key>Resources/addons/more-links/addon.json</key>
 		<data>
-		G3yXqk9gF9og4rIceKAPAV0yyIE=
+		ZY6Fj/GypWI9mGwNhR5G1rUXouQ=
 		</data>
 		<key>Resources/addons/more-links/userscript.js</key>
 		<data>
-		ZQwcvx1t1Z3jgAmKWAfA5KhxDs8=
+		PBzJGABgN41OXKpcHfNcaPabVGM=
 		</data>
 		<key>Resources/addons/mouse-pos/addon.json</key>
 		<data>
-		ww6z5PkiQ21C6E2Ng7JyZW1rCgg=
+		0Yn96KIq4EzAQ+7Pyw3Zh7TaKs0=
 		</data>
 		<key>Resources/addons/mouse-pos/style.css</key>
 		<data>
-		/sHhSUP8gewxvJzXboDSIeDzaGU=
+		Z0QnwsJl8UnHEaqsLYWBImkqr0A=
 		</data>
 		<key>Resources/addons/mouse-pos/userscript.js</key>
 		<data>
-		MX7vVbBxe6fSreS2AbCZLt1b5kw=
+		hgu6ke1oZ7O6AD1DpaR7chvOpnc=
 		</data>
 		<key>Resources/addons/msg-count-badge/addon.json</key>
 		<data>
-		aqmIqiB31uTv9IjIRRjZHckrzoM=
+		oHf9KU2o8odjh6TjcNt/V0dAubs=
 		</data>
 		<key>Resources/addons/msg-count-badge/background.js</key>
 		<data>
-		FHjDP+lNt5HXu1To+RuZcFufQ5I=
+		8B36o8GVUrtHjik92WWZGz8gvZM=
+		</data>
+		<key>Resources/addons/pause/addon.json</key>
+		<data>
+		zUy47JMLAEQiNeJmdCVK4CgWhpo=
+		</data>
+		<key>Resources/addons/pause/pause.svg</key>
+		<data>
+		n6ksVLFNyqadR3yls27T8vE250g=
+		</data>
+		<key>Resources/addons/pause/play.svg</key>
+		<data>
+		lRArcqGY9QG+6c8EYSoCg9JKafA=
+		</data>
+		<key>Resources/addons/pause/style.css</key>
+		<data>
+		f9MVH5IikuzJLGKdEqF0njGA2HY=
+		</data>
+		<key>Resources/addons/pause/userscript.js</key>
+		<data>
+		TtgYMQfL0ak3HA585HqnD2ETQcs=
 		</data>
 		<key>Resources/addons/progress-bar/addon.json</key>
 		<data>
-		sU6Ag0IcDRC8X8JMo0BCZMcig+I=
+		N3S0JrHQsVR+JqytnaPnl8Xajmg=
 		</data>
 		<key>Resources/addons/progress-bar/userscript.js</key>
 		<data>
-		gjH3yY8tJTxf1s1kLV2F+Jm0UWU=
+		yYXM4NpTH9ddnZGtm42eR7YSaI0=
 		</data>
 		<key>Resources/addons/progress-bar/userstyle.css</key>
 		<data>
-		Cg+r30YN3JrVhlMjqB2Ja0vWu1c=
+		fEuwICEmTqSQElc0k6g640iSfSQ=
 		</data>
 		<key>Resources/addons/remix-tree-button/addon.json</key>
 		<data>
-		Zp3fT6iY+A1UvjLHsSwHO1CraGQ=
+		rWFNKIfoczYA2a9/phm8I4lXsJI=
+		</data>
+		<key>Resources/addons/remix-tree-button/button.css</key>
+		<data>
+		5U/LcrvVL+otYGtym1TsJoD7ZfM=
 		</data>
 		<key>Resources/addons/remix-tree-button/main.js</key>
 		<data>
-		dkIZT/U8tOUWMMar0zr2fs9udQI=
+		GphK+rP74kH9o6IbCakOxXau0aI=
 		</data>
 		<key>Resources/addons/remove-sprite-confirm/addon.json</key>
 		<data>
-		9h43cthiWD8EDvaueBK4+/agr/U=
+		j4wLhVWzoEJ2tvD+WzcLd319Rfk=
 		</data>
 		<key>Resources/addons/remove-sprite-confirm/userscript.js</key>
 		<data>
-		JNxPmNz+fjT5qwB0ZdOMtdF8Hng=
+		yepjkN4T2F4wVgtSCsC5YY+RQIE=
+		</data>
+		<key>Resources/addons/resizable-comment-input/addon.json</key>
+		<data>
+		GPYLoiKywRUHuLuUPrB54eBQIuE=
+		</data>
+		<key>Resources/addons/resizable-comment-input/userstyle.css</key>
+		<data>
+		lOllI8ccxBEirJQE0eAO7XPmZ1k=
 		</data>
 		<key>Resources/addons/scratch-messaging/addon.json</key>
 		<data>
-		RyE9G178RfiBWkwIxOZLx0hDUnc=
+		jjV3Ikv+ZuYBp34SbJFAI4JGcIk=
 		</data>
 		<key>Resources/addons/scratch-messaging/background.js</key>
 		<data>
-		+XbqWif/mQ2/ecrTAcFm+muWGDI=
+		LgGb2J/vpvjYps3y9b7UoEWkqaM=
 		</data>
 		<key>Resources/addons/scratch-notifier/addon.json</key>
 		<data>
-		HYc3tbwCJL2WvfmT1CnJIUPdytE=
+		lKh30IDAv8neykoBcRI+ehRNvPY=
 		</data>
 		<key>Resources/addons/scratch-notifier/background.js</key>
 		<data>
-		GLC3QF5/fuulJnaMklmvn1cp838=
+		XL0j/t/jpAAOH9X/A9iNdzFDOrc=
 		</data>
 		<key>Resources/addons/scratch-notifier/comment-emojis.js</key>
 		<data>
-		3X5EY81yXZgsZ4tMf8LXhfvUNJ4=
+		IkbBSOVoyRG5uAPzgf5xU71fzEE=
+		</data>
+		<key>Resources/addons/scratch-notifier/ping.mp3</key>
+		<data>
+		BcOihHaRzW5cGLQB7Ddc7v7hlj8=
 		</data>
 		<key>Resources/addons/scratchr2/addon.json</key>
 		<data>
-		cXSFgBm1F351qeXfTB8ChEalV4A=
+		YQ6eUi1miTA+Vi4hgyQ5vmPn39I=
 		</data>
 		<key>Resources/addons/scratchr2/forums.css</key>
 		<data>
-		VyY8x6zWHMFgRK/e2+z9dsRTnN8=
+		lHLm2snc3hOowLlg14CBHfCYnds=
 		</data>
 		<key>Resources/addons/scratchr2/forums_topic.css</key>
 		<data>
-		jG5z9VtvsDbi/sn4U9kSAvopoJY=
+		3Kj/ScWWNr2Br3n7Msm7utmudJA=
 		</data>
 		<key>Resources/addons/scratchr2/forums_yt.css</key>
 		<data>
-		jAg11201daaKDUFQgpPjZi8hdr8=
+		/4L0M66eWCxey1zzT6h7YALe5Z0=
 		</data>
 		<key>Resources/addons/scratchr2/mystuff.css</key>
 		<data>
-		b3s7GKGizX7qRYZaqc/zGS1OiUA=
+		AmfzHwt86VIyuGqHBLqK0KkvlAU=
 		</data>
 		<key>Resources/addons/scratchr2/profile.css</key>
 		<data>
-		YJgDV7BPlnxSW2KgesGjoSnNmFw=
+		9WvlIlV0asCt6NCki0lVSJP/v2c=
 		</data>
 		<key>Resources/addons/scratchr2/quotes.css</key>
 		<data>
-		QfDxKOnqXul1hXkW3LF51iLnjMQ=
+		eKAVxwcARO8oEM57t42qmNg1eng=
 		</data>
 		<key>Resources/addons/scratchr2/remixtree.css</key>
 		<data>
-		geFMu2Q5KL1PGNzdakmRu454mR0=
+		miMjlt53AOOTdLyGvvSWYTsa1rw=
 		</data>
 		<key>Resources/addons/scratchr2/s2_download.css</key>
 		<data>
-		BWvEA19ydpplXncNi2bXaO/ltT8=
+		tfYNzroqA/Y/cWE+S/8lO73rqoU=
 		</data>
 		<key>Resources/addons/scratchr2/scratchr2.css</key>
 		<data>
-		uxR0fHG7qdsXqdy+zn+CPqE26/0=
+		8P3EE5Vxaq0Azz6o/m3Oslg+pgs=
 		</data>
 		<key>Resources/addons/scratchr2/scratchr2_comments.css</key>
 		<data>
-		yO23WxG8Ozl2IB/qhOT3dQQpjVg=
+		4nw+G9zYUQvpQ42Fr/y37yCNF+E=
 		</data>
 		<key>Resources/addons/scratchr2/scratchr2_errors.css</key>
 		<data>
-		zp1o4zKCtpiMwL5NzJX78nN3Jf4=
+		HwGk/fzrhfnEQy145U/f5FsBJpA=
 		</data>
 		<key>Resources/addons/scratchr2/settings.css</key>
 		<data>
-		HjYm8hmW6ojsxovMfnR0Mtw2WmI=
+		nCJxNlN2nfYcK4v3e7mBc60kmVU=
 		</data>
 		<key>Resources/addons/scratchr2/studio.css</key>
 		<data>
-		Dj9tbjaQCHlU1VHOeDGxjZQJhYI=
+		UPZNdpzs6XP0MFCEJ7bFGEIiikQ=
 		</data>
 		<key>Resources/addons/search-profile/addon.json</key>
 		<data>
-		4YgqYoYcBBzsS5qD5CMgbtWa2VE=
+		/0P/fLCqRMyTLlyThMK+Iu/gKco=
 		</data>
 		<key>Resources/addons/search-profile/user.svg</key>
 		<data>
@@ -478,131 +542,131 @@
 		</data>
 		<key>Resources/addons/search-profile/userscript.js</key>
 		<data>
-		NXlaGU0ErlcNKD6WNOX2GEOTrTM=
+		Z2WZk72hN9i0L8N2SJpxPQNYd18=
 		</data>
 		<key>Resources/addons/studio-tools/addon.json</key>
 		<data>
-		t6rWcCx3MvKL+D7ioW+CPmNpCnw=
+		cq+3jO81WMa/+xt/ttN0bdllNbk=
 		</data>
 		<key>Resources/addons/studio-tools/userscript.js</key>
 		<data>
-		XsfgWTdOmF5CUaryChMNn9gYvjA=
+		qPdyRDvP2jvgpmNkbnqxtWlnhGg=
 		</data>
 		<key>Resources/addons/true-youtube-links/addon.json</key>
 		<data>
-		H8Rr+Lesvrsa5FWHX7CGGEuZdy8=
+		uO7KfEce2+en9dbLj6uSqT2oJIE=
 		</data>
 		<key>Resources/addons/true-youtube-links/userscript.js</key>
 		<data>
-		l05o8BIeAXIBFSE25I778XwxXa4=
+		ajk8jCfCpcQ5Kd6tlDykOnf8eOo=
 		</data>
 		<key>Resources/addons/youtube-fullscreen/addon.json</key>
 		<data>
-		dko2SpI/cOwXjJKFqh/ulPyuDRc=
+		JDSEUYDzOXDun85bB2iWBYbXxYI=
 		</data>
 		<key>Resources/addons/youtube-fullscreen/userscript.js</key>
 		<data>
-		GtfoGFVCha0xt7nteSpzd4WKXkw=
+		q93kAESvo0LopeRP4tu2VRgixWk=
 		</data>
 		<key>Resources/background/background.html</key>
 		<data>
-		pWa2Oo+6RQFGKKJuoRx5EfCj+2U=
+		ozOu/gR9152wZglQfCAyVWGhg4s=
 		</data>
 		<key>Resources/background/declare-scratchaddons-object.js</key>
 		<data>
-		iVs3HZSPiq0dcu5x6ANNdPS2kYg=
+		c9uOdS6QwatOyKWuSvXb28ZuTY8=
 		</data>
 		<key>Resources/background/get-addon-settings.js</key>
 		<data>
-		GC8OvAvS8nazoRd1Ext7CXrtMfs=
+		Ql240kiMWdPTyvduc6XQzRelb50=
 		</data>
 		<key>Resources/background/get-persistent-scripts.js</key>
 		<data>
-		SY+RiqXEfIKHo/xO4m/d8jddc7w=
+		EmAfcPxeL5ybt0HnZzzPSpkOGsk=
 		</data>
 		<key>Resources/background/get-userscripts.js</key>
 		<data>
-		ti4EifWnXb99QEOgYkS+3o8Y0Vc=
+		t5Zhp0HcHaz7OPMoBK1xofGocgc=
 		</data>
 		<key>Resources/background/handle-auth.js</key>
 		<data>
-		EJkm5D9CvSfk3h+CNNdxaIylc4E=
+		c/yoiTFZCokveCYzWABZJIAd74Q=
 		</data>
 		<key>Resources/background/handle-browser-badge.js</key>
 		<data>
-		gk4ilHBoWbWGQioN/BNL4wQ0DzA=
+		+lNDCqekDCgpnUI1CtrwS41dIro=
 		</data>
 		<key>Resources/background/handle-clipboard.js</key>
 		<data>
-		wS6aDr3IR6n77dQCOJOYTRoycDs=
+		KCbaojHO9G7pv9z7YETyo5LkJaA=
 		</data>
 		<key>Resources/background/handle-cookie.js</key>
 		<data>
-		jNcg91SFZLhkm9j06jXPSZxXzuU=
+		S/IUf1W/NKoWACdck2ra0+8LuXA=
 		</data>
 		<key>Resources/background/handle-fetch.js</key>
 		<data>
-		+0BFOg15oGoPW+UpijGT4LMGwko=
+		XaBN6jChbDujwoYCMVnjHLLRiik=
 		</data>
 		<key>Resources/background/handle-licenses.js</key>
 		<data>
-		y5t7EAFHMshO9f0skduN43/xoLk=
+		zy+Q7BDxVkH8neKwAvMutadQTLM=
 		</data>
 		<key>Resources/background/handle-messages.js</key>
 		<data>
-		KNqt6re+e7I9sUGKnssYSWpzfKw=
+		TqJlrAERLwo3JQOc9Pd6CYhbIRQ=
 		</data>
 		<key>Resources/background/handle-notifications.js</key>
 		<data>
-		Suq4Y1JA/6Igx4Etgv6bqP1/lvg=
+		nOBDxt4h031rLKo0ijEPDFWCeqI=
 		</data>
 		<key>Resources/background/handle-settings-page.js</key>
 		<data>
-		dUAB1c0IxPkyZ1RcFJMgorEZAbA=
+		yR5BGJeAUqoAS+hEFK9KjSQKGZs=
 		</data>
 		<key>Resources/background/imports/global-state.js</key>
 		<data>
-		GYZJKUOcKR46RuDZNRCtQNNkraY=
+		VJdhD892mBEq7795gWCVZTZFpQY=
 		</data>
 		<key>Resources/background/imports/local-state.js</key>
 		<data>
-		c6GL0xYdYbWOqzIastAA7hbLdC8=
+		wl29B28NWh5O+gdPEfDr9NX1cLo=
 		</data>
 		<key>Resources/background/imports/run-persistent-scripts.js</key>
 		<data>
-		XeINwAcQI9uQWVd6wbwgZnaAd+k=
+		nQwAF8WzRr2UNcB8jqaXUqs6fZQ=
 		</data>
 		<key>Resources/background/load-addon-manifests.js</key>
 		<data>
-		DNsQOhAuqrpysUk2ucKjTUo6YUk=
+		4d+LeDGw419ofKziINCtl2YH1tU=
 		</data>
 		<key>Resources/background/transition.js</key>
 		<data>
-		MS1riIFBKqQItaEjOe/Jr/uDolg=
+		XB7W2ib9YB5zUVlFe7YU1RaITdk=
 		</data>
 		<key>Resources/content-scripts/cs.js</key>
 		<data>
-		oKLdaRYEu2Fl6ARD/SHAT9FfgkI=
+		wl1HPd/0HPsYCQePQfGREkn7RY8=
+		</data>
+		<key>Resources/content-scripts/fix-console.js</key>
+		<data>
+		8wPubgPH5DYsOH/yvwwC38fVBF4=
 		</data>
 		<key>Resources/content-scripts/inject/module.js</key>
 		<data>
-		ejg+vpXgRacOa9Mnm1ShNK2p+VA=
+		T7bGynjVInZl4KjBn58kZkaAIbk=
 		</data>
 		<key>Resources/content-scripts/inject/run-userscript.js</key>
 		<data>
-		wOTx/Hk2hSJ9ysFIthc+QoRVb88=
+		yXSWwKxYJU4qPwoXa8UYvCHWjJk=
 		</data>
 		<key>Resources/content-scripts/load-redux.js</key>
 		<data>
-		G3I+TMFcJehSldXUY17fUQVu7do=
+		YU6XVOkuso0OWpSrebI/H3BUcOg=
 		</data>
 		<key>Resources/content-scripts/prototype-handler.js</key>
 		<data>
-		tZ1pYO1khfBmEE4f8jYkkjxbFRY=
-		</data>
-		<key>Resources/content-scripts/sa-embed.js</key>
-		<data>
-		2pDxOZRj1cIzRF38vBhFZoFVJB4=
+		ZLZOPQEEQiBobQfI6kGZYT7vy3c=
 		</data>
 		<key>Resources/images/extension-icon.png</key>
 		<data>
@@ -610,7 +674,7 @@
 		</data>
 		<key>Resources/images/extension-icon.svg</key>
 		<data>
-		pF6sfP6XydZBrT5BqweiIV1FMQo=
+		PXeRTsAkuXPibf9IbpBCQQQLuJw=
 		</data>
 		<key>Resources/images/icon-16.png</key>
 		<data>
@@ -634,159 +698,203 @@
 		</data>
 		<key>Resources/images/icon.svg</key>
 		<data>
-		33yX5Iqb99Hdq64WG6KGvcLe8f4=
+		3ZbvEYWp4v4sRlVKGTPiD7WsJ1s=
 		</data>
-		<key>Resources/libraries/Sora.css</key>
-		<data>
-		AzQl0QQdU6l8kZVgnhXovHUqLiU=
-		</data>
-		<key>Resources/libraries/data-url-to-blob.js</key>
-		<data>
-		lneC/tE7Oz83IXlxEkGmYgXscVo=
-		</data>
-		<key>Resources/libraries/license-info.json</key>
-		<data>
-		LAOsPQiaEWlNH3tRJv4qtmsUxVs=
-		</data>
-		<key>Resources/libraries/licenses/MIT.txt</key>
-		<data>
-		7nC/Xvs4emxSwPXL6kEixqdKV7s=
-		</data>
-		<key>Resources/libraries/vue.js</key>
-		<data>
-		q2G4Oh0cy2Y7KB8CtAsztGhY/d0=
-		</data>
-		<key>Resources/manifest.json</key>
-		<data>
-		cwGxqPJCsDXmVfdpw6cEozvjfek=
-		</data>
-		<key>Resources/popups/cloud-games/light.css</key>
-		<data>
-		f/0U+ak68ZDjcUIi/e5ZCeJSq3M=
-		</data>
-		<key>Resources/popups/cloud-games/popup.css</key>
-		<data>
-		FketPWLMcWNIgVXKzXUyU8lU/34=
-		</data>
-		<key>Resources/popups/cloud-games/popup.html</key>
-		<data>
-		jX47TvYP0SFphpH2JFBKk8UL0Qo=
-		</data>
-		<key>Resources/popups/cloud-games/popup.js</key>
-		<data>
-		wd3yMqYkOa1FDUjiUmY/Or/O4rQ=
-		</data>
-		<key>Resources/popups/scratch-messaging/light.css</key>
-		<data>
-		5uTmyDmNQXlJo2iDrUDrFxE4L78=
-		</data>
-		<key>Resources/popups/scratch-messaging/popout.png</key>
-		<data>
-		FdbRSloT68kU224NAP7N+jwDd60=
-		</data>
-		<key>Resources/popups/scratch-messaging/popup.css</key>
-		<data>
-		j8zKIqV/bOj86Q6uacLuTa+1slI=
-		</data>
-		<key>Resources/popups/scratch-messaging/popup.html</key>
-		<data>
-		sUzvf/IcZrveQirHp4anRsz679Y=
-		</data>
-		<key>Resources/popups/scratch-messaging/popup.js</key>
-		<data>
-		9xnoUM+dVtQrLzIM76o10L68/yY=
-		</data>
-		<key>Resources/webpages/popup/index.html</key>
-		<data>
-		dxAi46awqXX3/TzdqFKcicUZC40=
-		</data>
-		<key>Resources/webpages/popup/index.js</key>
-		<data>
-		SUPUGsED3bQri4LTxz1cOFe9g+I=
-		</data>
-		<key>Resources/webpages/popup/light.css</key>
-		<data>
-		oEItnMx0QgCrfIeVm0Q9XM8C0uY=
-		</data>
-		<key>Resources/webpages/popup/popout.png</key>
-		<data>
-		FdbRSloT68kU224NAP7N+jwDd60=
-		</data>
-		<key>Resources/webpages/popup/settings.svg</key>
-		<data>
-		yQbDqFi6++WOBFuUkC+RdpZMsGE=
-		</data>
-		<key>Resources/webpages/popup/style.css</key>
-		<data>
-		SbBR3EpDDmwOtBBV8FrlWhgO3lU=
-		</data>
-		<key>Resources/webpages/settings/brush.svg</key>
+		<key>Resources/images/icons/brush.svg</key>
 		<data>
 		cD/rYzQgD2H2oYmKD35jplNgDNU=
 		</data>
-		<key>Resources/webpages/settings/credits.svg</key>
+		<key>Resources/images/icons/cloud.svg</key>
 		<data>
-		4IvYhZ1JRP20OwOTrV5qujkgNOg=
+		Dv6l6FrpVCaVbJCSQHVSQ/+3lm4=
 		</data>
-		<key>Resources/webpages/settings/expand.svg</key>
+		<key>Resources/images/icons/comment.svg</key>
+		<data>
+		Ooy+EXUWQ7rsybyxM2Pf+m93Vko=
+		</data>
+		<key>Resources/images/icons/envelope.svg</key>
+		<data>
+		a80lgm7FfM5rdMEOggS9SVaMSfI=
+		</data>
+		<key>Resources/images/icons/expand.svg</key>
 		<data>
 		0X9Y//KQNEwlWVHxil8CFsBtY1g=
 		</data>
-		<key>Resources/webpages/settings/feedback.svg</key>
+		<key>Resources/images/icons/follow.svg</key>
 		<data>
-		6Sy+8TBeQ6Ol+9EfE9lYJrMg830=
+		T5CK0oxV3xJZKyM0UY27K/xCD2w=
 		</data>
-		<key>Resources/webpages/settings/index.html</key>
+		<key>Resources/images/icons/forum.svg</key>
 		<data>
-		JNq6N4ccnbt4o8zWU5RT8vTImig=
+		7pbRsGNeXo9qjLYCe2vjktj2d04=
 		</data>
-		<key>Resources/webpages/settings/index.js</key>
+		<key>Resources/images/icons/heart.svg</key>
 		<data>
-		xLOC1yHh0ygKiJ3tX46+omwQ2Hk=
+		IFsdJ7x/nO+ufGW6BF4qHjJhkmw=
 		</data>
-		<key>Resources/webpages/settings/licenses.html</key>
+		<key>Resources/images/icons/list.svg</key>
 		<data>
-		mlUF4wiH5MoGccX/bhYwekwZONc=
+		ptmxwyZW7Z7wCC55H9OunMEtvrs=
 		</data>
-		<key>Resources/webpages/settings/licenses.js</key>
+		<key>Resources/images/icons/moon.svg</key>
 		<data>
-		sdmNKcXvZaPaBbRY2XjEwyGuJLU=
+		586wUb6SWU+kB6QVuPcmRjBhGEc=
 		</data>
-		<key>Resources/webpages/settings/light.css</key>
+		<key>Resources/images/icons/plus.svg</key>
 		<data>
-		Y1eyBajPcSQm9u0+1Zn28r5AE4E=
+		LEZMCPCLuTnzamJwf+7Tzx/g/mA=
 		</data>
-		<key>Resources/webpages/settings/list.svg</key>
+		<key>Resources/images/icons/popout.svg</key>
 		<data>
-		iXqKqSYkiks1Ge5nWvlT2EJFfdE=
+		9J6zwsSdbvJDbbW3ICmL0ilN6oA=
 		</data>
-		<key>Resources/webpages/settings/puzzle.svg</key>
+		<key>Resources/images/icons/puzzle.svg</key>
 		<data>
 		LE8KX9hiTsvyyAyA6qy3LVLTJ8o=
 		</data>
-		<key>Resources/webpages/settings/review.svg</key>
+		<key>Resources/images/icons/read.svg</key>
 		<data>
-		8R9pyu9ya1HGlzzYKyhduOZhKwY=
+		ejsE1dqxOBkwNPsgQsMR+Oy3zFI=
 		</data>
-		<key>Resources/webpages/settings/style.css</key>
+		<key>Resources/images/icons/reload.svg</key>
 		<data>
-		5KV9eh/U6uxaXoJCokTydtGT2jE=
+		8F+yKmQDtykg63cb4N3UdYrZ3yw=
 		</data>
-		<key>Resources/webpages/settings/theme.svg</key>
+		<key>Resources/images/icons/remix.svg</key>
+		<data>
+		oqLK5dQCktKJx58vjN9ANy678gU=
+		</data>
+		<key>Resources/images/icons/settings.svg</key>
+		<data>
+		yQbDqFi6++WOBFuUkC+RdpZMsGE=
+		</data>
+		<key>Resources/images/icons/star.svg</key>
+		<data>
+		jRTzeeyFlC14eNFWnn1yAltnQsE=
+		</data>
+		<key>Resources/images/icons/studio-add.svg</key>
+		<data>
+		FUYkbJ4sBESvKTejUvwYQKYW90I=
+		</data>
+		<key>Resources/images/icons/studio.svg</key>
+		<data>
+		DULO0VmwlCc83KNOPmyRnrXnDpE=
+		</data>
+		<key>Resources/images/icons/theme.svg</key>
 		<data>
 		saLH0Bp7GErAsffh2qnFoIbXmNs=
 		</data>
-		<key>Resources/webpages/settings/undo.svg</key>
+		<key>Resources/images/icons/undo.svg</key>
 		<data>
 		d/ARlMrlc2kITXkPPorfid47RfE=
 		</data>
-		<key>Resources/webpages/settings/web.svg</key>
+		<key>Resources/images/icons/users.svg</key>
+		<data>
+		UcJSyrL54bg0J+AokxvWSThkI5U=
+		</data>
+		<key>Resources/images/icons/web.svg</key>
 		<data>
 		eqxQ8Tfa0TA0eI8HikQo6qTYPLY=
 		</data>
-		<key>Resources/webpages/settings/wrench.svg</key>
+		<key>Resources/images/icons/wrench.svg</key>
 		<data>
 		1Np41LQQmTEh8KJB4NFYCMD2FfQ=
+		</data>
+		<key>Resources/libraries/Sora.css</key>
+		<data>
+		k6U7TRViFg48cxwrjU5wpRPCjjw=
+		</data>
+		<key>Resources/libraries/data-url-to-blob.js</key>
+		<data>
+		iFMVIytAFENnjkypL7HV/hmi3A4=
+		</data>
+		<key>Resources/libraries/license-info.json</key>
+		<data>
+		/dABxIG9FzAgyO6uiO8sFd7tJiM=
+		</data>
+		<key>Resources/libraries/licenses/MIT.txt</key>
+		<data>
+		qfN8K67+RODdtu4oCaEBsrnvOTU=
+		</data>
+		<key>Resources/libraries/vue.js</key>
+		<data>
+		FTG8y4uel9UqquqJ3diryYtXlmg=
+		</data>
+		<key>Resources/manifest.json</key>
+		<data>
+		BUtFDW0fPGp9Kir8871s+tmt0Uo=
+		</data>
+		<key>Resources/popups/cloud-games/light.css</key>
+		<data>
+		mdouuutkAOeyfvmfOiIyE5BsC20=
+		</data>
+		<key>Resources/popups/cloud-games/popup.css</key>
+		<data>
+		B5Gp/ADXt8rAWrd6S+8SaRZApvk=
+		</data>
+		<key>Resources/popups/cloud-games/popup.html</key>
+		<data>
+		6MmbHX1MlZT1rRFZBOAqN+zcuM0=
+		</data>
+		<key>Resources/popups/cloud-games/popup.js</key>
+		<data>
+		DhwqTcW/W4C3PRG48PD1aQeFSUk=
+		</data>
+		<key>Resources/popups/scratch-messaging/light.css</key>
+		<data>
+		bRYZQD9NSHnc105/6KH1k6Zrvy4=
+		</data>
+		<key>Resources/popups/scratch-messaging/popup.css</key>
+		<data>
+		EqJ4jGUwLvY0KvUhbZBJEyqEVaA=
+		</data>
+		<key>Resources/popups/scratch-messaging/popup.html</key>
+		<data>
+		WxlDBpFkxvsJHGJkHG7wE+1PqS4=
+		</data>
+		<key>Resources/popups/scratch-messaging/popup.js</key>
+		<data>
+		t5heUMFYQU7n3jPDOFpADLmP51k=
+		</data>
+		<key>Resources/webpages/popup/index.html</key>
+		<data>
+		cJnmoo2fsrEVcHPcWLntTe7Yq08=
+		</data>
+		<key>Resources/webpages/popup/index.js</key>
+		<data>
+		sES372lpv/cNzvJnjo4pxGUCCAE=
+		</data>
+		<key>Resources/webpages/popup/light.css</key>
+		<data>
+		2UyNI1/mCVhz55E94p1yFh1QtkE=
+		</data>
+		<key>Resources/webpages/popup/style.css</key>
+		<data>
+		ky3/CZkIBjpHKMW/5/ONKzKmXB4=
+		</data>
+		<key>Resources/webpages/settings/index.html</key>
+		<data>
+		74mgv5gfiMVe1Ml7J5hWkajJPTI=
+		</data>
+		<key>Resources/webpages/settings/index.js</key>
+		<data>
+		j4OvTVqtAb4UCQOZMw4uMQbcdFE=
+		</data>
+		<key>Resources/webpages/settings/licenses.html</key>
+		<data>
+		N0DLaSN2ofICgEAaMYqom1n8f3g=
+		</data>
+		<key>Resources/webpages/settings/licenses.js</key>
+		<data>
+		SkQExC2FoBtjku074jM1aqeCoWo=
+		</data>
+		<key>Resources/webpages/settings/light.css</key>
+		<data>
+		V0zPKSKA43RY0Sf48d0qZNOF4Oo=
+		</data>
+		<key>Resources/webpages/settings/style.css</key>
+		<data>
+		TlFJTnDXI059tGvcqyUkKiu138Q=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -795,105 +903,119 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8B3b94Jdk18weFZIqIH3Oc8nQqZOXXf3E6LGsXKEL5Q=
+			zB24Bu1yMWmCvTXqn0WRdYJu/qBTL0B/PM8keIyHpNM=
 			</data>
 		</dict>
 		<key>Resources/addon-api/background/Badge.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FLMap6Obnl5SxdYghfahx4LdJ7AKp4YD95t977XMREo=
+			ZL/b/B63HWyYsitTgTcDPgf7fs2wMufVmBvxtbKLeMo=
 			</data>
 		</dict>
 		<key>Resources/addon-api/background/Notifications.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kKHEMXit8/wCS22WLlDn4PCD8tUV211maubjkVf7knA=
+			+ywn6+r4rb8pq9sXXAG70QIwnNk96Kx3uKFe7gE7cC8=
 			</data>
 		</dict>
 		<key>Resources/addon-api/common/Account.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ggV1StYvMNful3V6YGrZRof6cJ+EAsT5H8lZ8rN6l58=
+			v2ethRN6bXOWCh+ePJQFCJuIQ2fc7nbqhXM0TvQLCXA=
 			</data>
 		</dict>
 		<key>Resources/addon-api/common/Auth.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vNMWkFx/Gi3eukOI5xxvdG0OTBxGAWbPzt2pIIBdE0k=
+			yW+yeUjebhOuk5VjRoFYaaOQPoduMPCsoml/RQ21DAA=
 			</data>
 		</dict>
 		<key>Resources/addon-api/common/Settings.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eGThM2G7fN8P57kOYEu7ahdfpCSinFdqNXwdPUelJ3I=
+			+l+B/0bubSv/akDzJD9njGNmSr06BMMYr0iJ9sp5IgM=
 			</data>
 		</dict>
 		<key>Resources/addon-api/common/fetch.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAlNm/pDKJzqG4I3vJhrq4JoZZZM1g/1ExJyuCxpSuM=
+			frM6Dvb+RcwZE0/HwlxgfZ8oAE/rR+41K4Po1iN2r/4=
 			</data>
 		</dict>
 		<key>Resources/addon-api/content-script/Addon.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5X2QO5yDNEEKYXGH3WCg2L9m6+MkU/bea8rI4YG+PXE=
+			ESnCcSuD00J5p45Jkzc5Fg4UDdkqVqYmjYpewiVYevU=
 			</data>
 		</dict>
 		<key>Resources/addon-api/content-script/ReduxHandler.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eT35HWb+kO0OHlELMbRW7jHvrG6cvmp46o+d7CmVOrI=
+			mTtQj3NIa5HIvRggG8sgvnxR6WkJP/0fjaIYd/sjt2w=
 			</data>
 		</dict>
 		<key>Resources/addon-api/content-script/Tab.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pxmT6XoDrLDnKaW0FEyuid0ovPottqIl2UIs7h3gqzg=
+			NazZOVgC/00IqiXHUTKmR2/hzgsZN6Sz/IwT2wirWfw=
 			</data>
 		</dict>
 		<key>Resources/addon-api/content-script/Trap.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KYbZJ/U3wQoZxtc2ZD2B5fH7tbLH1jQzC4sWeewVknY=
+			C117kkUvYABDK0ieXnAH72AOW1knR73SUalCzG8wIuI=
 			</data>
 		</dict>
 		<key>Resources/addons/60fps/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oTK9aWNgEkweSwWOXa87JECxXRz5Bjl0qOiVqy1IofU=
+			b1Ph1xeaU+jAjEDeDAUAztwE13JTA6jTwmh0bkLZmug=
 			</data>
 		</dict>
 		<key>Resources/addons/60fps/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jUW0h8u65WQv3JUli9SPMWnsYjSXfMxazPU10pODki4=
+			kmYPoyYbGw3g7s+AGirnWylsceIO0SJjTuS9Bj3BjVc=
 			</data>
 		</dict>
 		<key>Resources/addons/addons.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PfneChYzsY4ihBNw7sBLR9B112pxxorHawndMtt1MQI=
+			NV/Rps8tKY7LLHCKMGoJjWwyy8ku5ZSa8PP9SXzkeJk=
+			</data>
+		</dict>
+		<key>Resources/addons/animated-thumb/addon.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CPYUD27sg2lFyG98+rGE8EE3oBkJHHjRQs9rs4VNICE=
+			</data>
+		</dict>
+		<key>Resources/addons/animated-thumb/userscript.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			33fle72tRAItre8qdrBLz3aaI7YjaVv4IYs0z5fgI+I=
 			</data>
 		</dict>
 		<key>Resources/addons/better-emojis/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+tY52Bm5CtaNiacZVLycR31XLWyJG0csD3c6MMJQ/VY=
+			RjrrwTCHJbh5FdhWk+i46IGw2l0EYeWtBgUHL1stZ8U=
 			</data>
 		</dict>
 		<key>Resources/addons/better-emojis/images/aww-cat.svg</key>
@@ -984,630 +1106,728 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Qg8V+AkBwGwDcAJ6G0Kx0XNYyIfV9IU5Us7FLb9L+Y=
+			bKkUzByON40GCc1VGcYwRGz41jGGy6caGi3P6e65txs=
 			</data>
 		</dict>
 		<key>Resources/addons/bitmap-copy/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHQF5i0SoEu6VYyrrAs8lEmsFCxe1TpSF0dqrISbO7A=
+			JYS0bE/+QE4mCr5y8rM13uli41GqavaDqnP+iGSulh0=
 			</data>
 		</dict>
 		<key>Resources/addons/bitmap-copy/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eZGGFp02qc5D3vMUeVsL31c5dbwS2QImtkuM8bbYJVU=
+			VtMOZpXHujrjWNAm33Mmzzg2YqM8jIBopJ3iFs/ENxY=
 			</data>
 		</dict>
 		<key>Resources/addons/clones/300cats.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/tmGrwJ/yXr34wVxqESQavvUUfgZP+AYuXZf5ubsHY=
+			7M7aKHq4vO6wOgiGhvE4i1dYWHuD69NGBoPOTtgkw6I=
 			</data>
 		</dict>
 		<key>Resources/addons/clones/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JDmP6cQkVvobVwTBIFBR04KMvwJtrhOTMi0Iaqvva3g=
+			7/S5Zc4vTlODvyg4CRTJWBtRQOr7BxWtlSQTghEaauc=
 			</data>
 		</dict>
 		<key>Resources/addons/clones/cat.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zSZTYaCk6wOnCF9IOEyDBM92eVdoBztCEPT0PCXLsf8=
+			G4NdUlkD2gzk06HPEyBTw/cnMOeXMimfKYFRxlZ/01c=
 			</data>
 		</dict>
 		<key>Resources/addons/clones/style.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			grNpgUlE4+DwHLBp6u5a8/qHU85EwTLSNP4d3d2lYeQ=
+			R2lK1S+uLLlyWU9HMhWt4Y8EJEzJP1Vm61moTh8/jI0=
 			</data>
 		</dict>
 		<key>Resources/addons/clones/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hT0zgJT0pCQdO3Dkw7INDI/rTFgS5lwjeA/KY+psiZA=
+			xEFxU5RzT1CxPrcEcF1eMAO6enbhhdG87R1VsHMCCC4=
 			</data>
 		</dict>
 		<key>Resources/addons/cloud-games/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ga7ymFqvC+hXHxpC4CASQuASifViWL6RMwd4j7KyV48=
+			evJnKPxL3oMbuZliiDQQpNWrfKbu8+W90ks+fhUbfZ0=
 			</data>
 		</dict>
 		<key>Resources/addons/dark-www/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9C018QOFSLXrfpfm7bSeNHNXQrekgQmUQAOq++PpEQk=
+			3AGN5iYce937U6nbWEtITyAyhHBMq4E42zIJYa1NnZQ=
 			</data>
 		</dict>
 		<key>Resources/addons/dark-www/dark-www.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YV2Ce6uPl+in9LAuNmbqtQLzLUpoLkgJeDJiFHEuBcY=
+			hX51LqCXCTibB0HSPO1vrUXNNsrrKgPYlzuGcgkXfdk=
 			</data>
 		</dict>
 		<key>Resources/addons/discuss-button/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2CtifjsfrBjUcfl2svxv/OWjq92ejjd+01n3xG2jU/w=
+			bYS3x8XYkLzRV13d93BP+nSBdNxF0ExGUdixPCROLYA=
 			</data>
 		</dict>
 		<key>Resources/addons/discuss-button/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ed2spK2sdSDfoAJlD4AX0wrqS82DZQrqg5awLX7wb1o=
+			05kc7bUJCMS8n4DllwMZ9Z7yiK1Mih5MYDK9uOgre3c=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-colored-context-menus/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cZGtgD7klLoBcFXZst9B69hWdM9/Qj87ROCfzL9ooj8=
+			pBj8XdcysvgLz/MUJnRY+0on+wPSeMIrjqNcMdY4iQU=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-colored-context-menus/userscript.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MLTo8qLsg+uO0nRgh9XmHYEwfTp7X9pzZEo7vx5FoWc=
+			RifZBdBtDTuFJEh4KjWNa9tzoxQiuvYbgf0pfUtsK+M=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-colored-context-menus/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RkuuVj4nN8QTp1m4WHcnuZTmnF3Ppxus/UqJwhT0f3A=
+			1nVQyWrT4CH0ONU5szovb3PDvduX83YV+TU5X0gzHNA=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-dark-mode/3dark.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IDGTuPZNZWsBLaBbzIgxsBZ9q9FgWucDUa2kvAr/ZDE=
+			BS2POTilYDwO0F41LApBJAXPopCGj+zg154B29EVCYY=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-dark-mode/3darker.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CjL5or2qgtfHLMeANGkkBKNl1hoMSpCgKTRHYGGMZ1Q=
+			xV8oxvkssQCfua98Tnk1y9eP2pfaj1tYYjGJ9xij1KE=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-dark-mode/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kw08UVItnd5jGuCVqt1UWgxWR1RjJZ/2YqJoqTn4dTo=
+			jtmwunOuyv4zbVpj3di+FpTXULFnJr35kkBi2aCSZcs=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-dark-mode/dark-editor.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H1uP/4ixjFvVih7Bxveda9wjc7U3kAIDLJE6VdKPp1s=
+			sydWVuUzRD0eZZpc3DtAYcciV+DXRF1lbXPtCBE8yLI=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-dark-mode/global.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QtZNZqhZmtmAZIhS6gpjvtcls/d3pzftUhM1FbT+kGQ=
+			j/rbC8vRHgJkpgjbBA9nqRmoVNI0+qo/jT0DiwPRDW8=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-dark-mode/text-shadow.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jJoJMZSPlOGMvPKbfk0xbaPuQBryiXRidNWpB6Y9lQQ=
+			zVLFCxbXlleCG7IY1DyQfG70r/XihYfzzbUVlXDi5UY=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-devtools/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZDVBUfHM37175CXE/lhyS2QQ1z4Ebq10KYg4LgMoRts=
+			I2G3sJz+PVFkXtDagQNl60SR1ubomdZbrNZDeBRmKkA=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-devtools/userscript.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ThDoSibqY+MiCK+sczkhk0+BjDIQ0pji8jtgMjt5zhY=
+			awVcZ7sZpZ4QWQ4SqcTHJdKvUoG4HnSy2wBbjQJzsaA=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-devtools/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xcF1ach1CMbydhDNwCZeiiWSrivWYmVtSo/akOussKQ=
+			9tCPSkaj39HL8m7pa5CRZnlPsbWJnkvqPEuypVTqgXQ=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-searchable-dropdowns/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qw4NBZI16Wdrdzq01zTA0DXhKp+yxN9xrICYdH4surM=
+			Meul8hnFksOrcr7x0sTtwiSiy+ZdYSmx/D97mWbqNS0=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-searchable-dropdowns/userscript.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pAZ8MnChLW7j3L2IH4pJifGC1B/EA8ymQK0qB7ac6hM=
+			Vv3tpIo/qrCxCn36gJphMmkRc9yQzMOzlo6JtdrFSUs=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-searchable-dropdowns/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8HMfmPZjxQ5F+8upfKBODaALE7a6EsUn+SbhyGF86xA=
+			aIG88xN82FzUeXj9CvwsftOZ/HXViMXpoo3aA+aAuoc=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-stage-left/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xE+5kWsy5/o2npoVAdKEIhWUrDpPGhmcN2q5LY/k4Ew=
+			azKiuNcU309yp9aShYE4bJV7Lw4aXwNGn24+1hSYIw0=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-stage-left/fix-share-the-love.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HMtqmWOSbFbjGYEX7AT7hY5JNlgJzQxsegZOOcNMrvU=
+			CaKaAN01beTdkKIKJ3PfnTeA2WHD5DrlFHMce6M6l5Q=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-stage-left/stageleft.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nGrgR17DgomZmk35q37uc4jTGUQ9Iw2frRNGA/CWFek=
+			e5iqO1YVDqpRQrMHcQ3WW0mQQepJh0u1J7Y4eebsEDY=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-stepping/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DjQFsnwcIZDWCcqDeIl9VERnj7X9pW9TgWPtrKI8oyg=
+			MONlCENrizluVKwh8BQm1EsLFGSpDfOrPrT/9t9o+ro=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-stepping/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gw30co2VYK1OpIaghwqEmGH2G6BL8qtDiYnYB2q5/n8=
+			Zzs8p93fets3rDaAINCDsJ8jfhjczoSpKMFV2KH7PhA=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-theme3/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ugMwOCKnAxivj4BdepWSXsh3ozdldeAuwhv/AfUwHQI=
+			/hO1tEFUp/mAD7r3nmQueztJZQoCcQvULXPt0kQuOPw=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-theme3/theme3.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lZRC5yJzqobaiUXoMfuN6uMQHt0IVZu7i5NRMv4/O4w=
+			eCXcRECncCkZmfOTU8iJgTGeFe3UwammLyj/fRoI9h0=
 			</data>
 		</dict>
 		<key>Resources/addons/editor-theme3/theme3.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ls9ZQ1bZZb/IJxwIwOZu2IUvt+X1X0KBUnYYsMyygns=
+			xsNIJrPbIw4HX0idasKmWrqXTQuxRsHzQ1ysiKu2+jI=
 			</data>
 		</dict>
 		<key>Resources/addons/exact-count/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IBLSexoPzLNvZ8Dn+tccDIBoPSzhsO60rtk/44AjFW8=
+			mO/vnL/4ReOcFh5FQiFUwrtVq3OTz/t5QgL5O7PyqCw=
+			</data>
+		</dict>
+		<key>Resources/addons/exact-count/forum.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4BfoDQZfXAh+Cs+/HL0xlnZVqv9rtvUHYmzBEPl0WPU=
 			</data>
 		</dict>
 		<key>Resources/addons/exact-count/studio.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			siWRGPgURLmpvWNlPafsQQvf0VWvwNfJHbgXgwuxbhc=
+			ARFjYePMG0aL6cfYkyM2DEhDo61r64nYyLv7dZ8CTr4=
 			</data>
 		</dict>
 		<key>Resources/addons/exact-count/user.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0jPMzukDlDfHVczH08u2P9W2nyHf0TFayeF2BiGeMrk=
+			+J6CO0uBROmvoDdAJ1gIcajPdMmwctew9PHNmjivDuw=
 			</data>
 		</dict>
 		<key>Resources/addons/forum-search/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TQolR/8zosjQW/CYTqk07dwkp1j1h5/h1btobVJBxjQ=
+			Vbww75KKN4+OE7XrObI6LfS9e9zzFh4hPid+/omD4eE=
 			</data>
 		</dict>
 		<key>Resources/addons/forum-search/userscript.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nv4RQ9ACEv6gC3xP6YGhxjzNUQSFKnCaVy4y0Ip2DcA=
+			OUGgiEbSYx/SP0FlSnltI1Ye8mkpHad6Ma9asSv16yk=
 			</data>
 		</dict>
 		<key>Resources/addons/forum-search/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJ2Xq2P5K/db23Mqj6Vi9ksEgUUYyHFUJyyNxKABaw0=
+			3mc7yIvRKmUX1r+dlTXZo7hAZrA4thvYJAKEQjt67Ro=
 			</data>
 		</dict>
 		<key>Resources/addons/forum-time-zones/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ShywkDYNhR/+iQAFVLLJgDCo4w2vlBwKX8CibADw/Ww=
+			srjCieipaUkweAvcPSYOUKj5SLuiO1PkKY4/2ut91dA=
 			</data>
 		</dict>
 		<key>Resources/addons/forum-time-zones/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WnYcoyDrKRhs539KDUm+1/F/gmPLt6INUwE/LN8ungc=
+			HuJT6E90oup8ELoDpXgOShKe4W4e927OW701zmAVOEE=
 			</data>
 		</dict>
 		<key>Resources/addons/full-signature/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ZL5qCUb3v5v25lPVwAAt0kTplPPMy8gxsi3TqZYI34=
+			Bnfrv+l95aZuP1MscnUQf0rzpWdc7v7+42CDTNSHX6E=
 			</data>
 		</dict>
 		<key>Resources/addons/full-signature/signature.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e2AjaNT02+xRa1nWQC+3CzuBBz+7X7qHf4CQ/ljb78Q=
+			5pO/jvTUcSoHgr4vyTnRTFIFr2IXmPagKHowMtPviYs=
 			</data>
 		</dict>
 		<key>Resources/addons/full-signature/working.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lVWwD5Y9SFKOvTX0Ujje6mDR705A1W9w8zhm1fFJ2cM=
+			cBt2UPvdG+WV7WnJKaQ4nImM6mrK0fKH4Z5lxAxuwwA=
+			</data>
+		</dict>
+		<key>Resources/addons/full-signature/working.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C7mJbtYnlg6mkxmL5A9d5K0x+b8ngWHwYQL23v9ezNU=
 			</data>
 		</dict>
 		<key>Resources/addons/image-uploader/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VDMVTi98bWv8XYP2NPxvnUorGZSZ0fBSku2XHIdQ3QQ=
+			gimuRHY+JINZ5SQ5CBbcDmutSd9ChGbNQcKNIPgzlO0=
 			</data>
 		</dict>
 		<key>Resources/addons/image-uploader/text-field-edit.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pYEf3PEcnFDhaSHfB1sGXJSnjJjqaMr4FQ3EHe9QUEQ=
+			Hm8Qr7hNBEqCQomhVG5/EWV/TWK9pd35BjiFzI3wc2k=
 			</data>
 		</dict>
 		<key>Resources/addons/image-uploader/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8RrVionKDbyCH0LXBcIEYxcm5ixyiTuKvAAiqf79tlc=
+			EVmDR0UGIza15P8s1M3yHT2X9xc8uP8rjYk16ga696U=
 			</data>
 		</dict>
 		<key>Resources/addons/infinite-scroll/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8YkHTZRcje+olvpfm4PupvLmZecnO5GUg2Ol0iCGhfA=
+			ts6DXjwfERZMcLfrMlhHSS60Jsn1cNzmKFfI45c3k20=
 			</data>
 		</dict>
 		<key>Resources/addons/infinite-scroll/buttonScroll.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZZUhsF+yzefMle0SLcbjf3uZyjUq+nuZiwmnFPet1LE=
+			orWdh+gEfH8eS8biOaltxVXvbrXyv+VX6FL5BbyQrG4=
 			</data>
 		</dict>
 		<key>Resources/addons/infinite-scroll/forumScroll.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IpabPxx5Kp6NlzRNNn5+yJuDWm4HQTsSpWtdQS3yvqg=
+			zkHpVNXNlF29/LjvPt/l/u2QRMGcXsHKjJ4DKMG+rFA=
 			</data>
 		</dict>
 		<key>Resources/addons/infinite-scroll/userscript.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P2PaHlpjS88sZLdSOBShdDFleMEe497i/R1pxGr5tzg=
+			yoDoHeqUpIYQBUIkEW8nVvQnK90ra+MzHGROudI8sbw=
 			</data>
 		</dict>
 		<key>Resources/addons/last-edit-tooltip/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			odOd0zN8NAPsqPIZvoOhFjU+rhtG24ljb7H4uL0fFvs=
+			vWYMspGGY1W6hx4TYqV6CbqvypVNaMmP+nIXFRW1o3g=
 			</data>
 		</dict>
 		<key>Resources/addons/last-edit-tooltip/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1kQURNWOGi3W+eq0lMXwer5TVzlNZ+x6FICiZa/S8dc=
+			KpjThJXoZ4VMxY5nXsW87uzQEp3eiMzjVAJcDSsOZ3k=
+			</data>
+		</dict>
+		<key>Resources/addons/live-featured-project/addon.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OOBsOnd2R/7qJnqRobWqegeNixZpQltGa9GWzqshfBw=
+			</data>
+		</dict>
+		<key>Resources/addons/live-featured-project/script.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HLZGhnD0h8zjDPmekMaMZrxvwcQ4Utk0g3nFtKuwmdY=
+			</data>
+		</dict>
+		<key>Resources/addons/live-featured-project/style.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UMkxwjkErm3/Pq4lneFDbxuM1sSza/r+1P/2DkfdXfw=
 			</data>
 		</dict>
 		<key>Resources/addons/more-links/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8XvcwZZIWnve0lpupTs+2VQuM7OA9m3BqRswoXTGg/c=
+			6w+2MNF7o11hb2cwhYdb6NvQ6cimW808Csm9JHAqZ1Q=
 			</data>
 		</dict>
 		<key>Resources/addons/more-links/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f5XexfaxFuLSQMhNirSjFGy0HYvOf98C4HsM/ZASeg0=
+			MqnSI//icru+BMUQyP6oeW7ugt6+tWqeNIQzaQx1gco=
 			</data>
 		</dict>
 		<key>Resources/addons/mouse-pos/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iO0OCsjZnmdEMrSRoDFlS8c99RG0umEv6lcBrq6Bvn8=
+			QXFkI/gYN7qS3HKxDAEd5zTqQaslp/KamhjonFBCbiM=
 			</data>
 		</dict>
 		<key>Resources/addons/mouse-pos/style.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4PoLowkNMTLaHkXFoFhXHJmi3h1zYjAXCZvI6jTnuz4=
+			+qigx5Bu3UyAX5WfADDXqc3hHj8hQ8H83osXiQqkA6w=
 			</data>
 		</dict>
 		<key>Resources/addons/mouse-pos/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Xi7j/egHLAbnjsHPwX0hdOF+wA7x3P/iux0yibHEfA=
+			3W/Hmr2+Mg23J3MDNqYI4XDJfxN/581/KogVXcBCcD8=
 			</data>
 		</dict>
 		<key>Resources/addons/msg-count-badge/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UTkNdzFQyVdS8ZFLcKvWiGMi7oYoPuARTG55PiumBhI=
+			xxm1lkr/ukdMlvSUfC9FvK9/TC2AyMZvrzjsX7rZFqo=
 			</data>
 		</dict>
 		<key>Resources/addons/msg-count-badge/background.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gV8gBQPB+VaLiI1H1ZmoVU1izhtTa7R1zOFIRpbuEwE=
+			XeliGFlN0KISb9PQvjN0FyMKzcm/3bZifCyWdziTN6E=
+			</data>
+		</dict>
+		<key>Resources/addons/pause/addon.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w3bbk+W6qXDlpCU94lO4b8PGnaEopMkgMJARaV7t0u8=
+			</data>
+		</dict>
+		<key>Resources/addons/pause/pause.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oZaR8AvZgm9MvlJ5YDM0LyFQ6MAmPZpjEVllE8Fcneo=
+			</data>
+		</dict>
+		<key>Resources/addons/pause/play.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fvry8KPTPjbr/iwrC9mUXoFpvYPheU4mNW4C63KrmS4=
+			</data>
+		</dict>
+		<key>Resources/addons/pause/style.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YYoC4zFdeji/rzh/2HUlmj0ybEgHbfmB3eDlgvouJKY=
+			</data>
+		</dict>
+		<key>Resources/addons/pause/userscript.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NVIFZ0oWUzyIuxcRoc9W1wGdVaEP2OAYrb/3DkQbXWw=
 			</data>
 		</dict>
 		<key>Resources/addons/progress-bar/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8D9+JuyxJ2o0nSZnH/n+KIkTMCcvhVDDgJHhqaDSe70=
+			C21Gyc2T1Kq1w3CzmKi9oxLUKAT8z4e/RzxZZWfW6n4=
 			</data>
 		</dict>
 		<key>Resources/addons/progress-bar/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XONnEn4TC1j7iW9Yh7DVridY6aSyf1vs0LTFislWMYs=
+			ZO2DJhjdaM3UrH0b7GZEui/vqGLIUH6vJltOdp1miXY=
 			</data>
 		</dict>
 		<key>Resources/addons/progress-bar/userstyle.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LbzVMoOLAzZUtDUFM5NwMFYFBIYl7/Nrz+shnx9UDs0=
+			lapxUx7oWh+/0qvoqyY33a0435CGeaHBuNcwnlKr02g=
 			</data>
 		</dict>
 		<key>Resources/addons/remix-tree-button/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Z7AUff6essXgU0TIQr4Gf8m5JnUadwwHZMD9CWeOE4=
+			Gmu6sYGB3MvL3wwIIWz+TcO5CxjXIYMyKziNxPu6/nU=
+			</data>
+		</dict>
+		<key>Resources/addons/remix-tree-button/button.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8TQu+kCTSh5KbbuTtBoG7CxoJdkt089ojLbUXOX44oM=
 			</data>
 		</dict>
 		<key>Resources/addons/remix-tree-button/main.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MUto7ly+u43DoPxOJ0psYH4gV5H58KwRmRAuui1FQOs=
+			feNOciWdkQFetga8xQSRHgRyonFUUpOrOXy2LVpg7pY=
 			</data>
 		</dict>
 		<key>Resources/addons/remove-sprite-confirm/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			inSvAkLqn35qwWP+9W+x7PpPBfSxCfcxdUUClFxVJrE=
+			LZpVdT/fvD6TbRoh+qMB6w/seRqy1pibYYEFFKDWRb4=
 			</data>
 		</dict>
 		<key>Resources/addons/remove-sprite-confirm/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qUgaDG3bs+dr0kkzGdah3pCMgYj8oX6qWyOpAO730c4=
+			2E+G4KEiH3tPn7X9sQjS3QnAT2dHKSSxfLRQnOp51Kc=
+			</data>
+		</dict>
+		<key>Resources/addons/resizable-comment-input/addon.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7yahybCQC3F2qEKmvCFIIR05pIEvcDVZfCFUJ0YmLXQ=
+			</data>
+		</dict>
+		<key>Resources/addons/resizable-comment-input/userstyle.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			enL96SPjKOQgJL3prthrGm/wO8SqLBUp8pFNhaLyF+A=
 			</data>
 		</dict>
 		<key>Resources/addons/scratch-messaging/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrPvGt9q3bhl4z5rjMXqDXynk9+N6ZRtRc+4+rcDD+Y=
+			uWnOaGpz+ffKHoMYlh5LuDUqH+mNYZaYxEAwXN6sKa8=
 			</data>
 		</dict>
 		<key>Resources/addons/scratch-messaging/background.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KfN+R5y+tQcrUL/geuv9X5xZWW9yoVwXOoWbn6Cl/sQ=
+			n8GkCX8pV0C1JbvVV8LWLztXZ1FUvWpkybzVA2nO714=
 			</data>
 		</dict>
 		<key>Resources/addons/scratch-notifier/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VbYExXYIYhyLKZLjrOXlxXeh2c0UJkWcmBWgcjF4qAM=
+			4ENE18KgGyW++c4VHHbAg0q5iGeGnWr6j/VbEV0x6mA=
 			</data>
 		</dict>
 		<key>Resources/addons/scratch-notifier/background.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PIA/cr48PhCI1wF9Ble7IgA7W2A6AiP5J2bJJaIlq/Y=
+			hCAGSn1Om/3RZDfR+2j23Lh5KxFGJL+lsKKfi0wFNpo=
 			</data>
 		</dict>
 		<key>Resources/addons/scratch-notifier/comment-emojis.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E4UMY7BSw0GHuK33mAfBCGSXWgVe2lZOlTeS/Vry5DM=
+			w0dRuv0gXaRAUSu50Uf/QB37gccHITwRhA9scCsNNuw=
+			</data>
+		</dict>
+		<key>Resources/addons/scratch-notifier/ping.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qzmZ8UBzCL5NRTDw9DGVCvCywrP71q5VJDLlHIDcOAw=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5ermy5mPA5Nn1JaZdpWtqXf/6AaAIe2BTg8LK5JXEKA=
+			aYYokt3CHePhBNLGT57SHCdNcdreQo2zDVYlEF2Tr7Q=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/forums.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			stBqf397Psb8RAzvbJJwHKRCn18lqawMOLdEYq5VH1A=
+			eEpHa5HDpAZ4FB3Db+5uDd50XeKP4ge1ZE0lwVqSXBg=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/forums_topic.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H/B9KO+HX9MoabIUROxDRZnao7NSFg0Bs5Qz+kby5J8=
+			kKrhN1hQfqk68E7vrN1UO6trjo/T1ZMd/moR9Ab7lFg=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/forums_yt.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jzj5OVqh7BZmxfBU0t8IlA/JcUC5H/uf67vNvmQSYbs=
+			+LndalR6+ydRSZ/p0gpQzL5CqzAt3yGRN4VjuQmKJyM=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/mystuff.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OXT0Crl6METZkEtuUXZH1CI6QK1fqLyu6QfAUyNrR3Y=
+			dI+Ya9RoXKi7D+yv82oD2He6vHqBNPwCukqb0FOaigg=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/profile.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kesjQu6PWFTRLUhSrwbDUNaz7JYcVU2JPcMzd4uy1vc=
+			MaChDDN2yT90VkMYJO3kB0AugKL825CyayqYyfTCfls=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/quotes.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z9jPiwjE+q1WHWf/EEm71smb1qSZKwS6FHiOCk/V88c=
+			PdgQKf0WJo0xPjFKRDxyE6cj3Mfb+BQ44vrtnRc4NLI=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/remixtree.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Em8fDT2VqgTO3RLojxxkvGTHkRD4Uxec6iPxd2kJfZM=
+			GpxdzCXh0XhRfWNXHjjjh8+9WtRqtWjMxM75AZOGI/E=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/s2_download.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bsRTRhk1w8ZjzLoLEL9Cso+P4F3VwkMvkF4QRpxvXvY=
+			a0aM8rvln4O7WZNW9VVtDum6rxMdUo5mKWl75KHMDjk=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/scratchr2.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GGINYUP/gAUDZLk3m1DIX3gdD3e3xjyp85wWMYnUJIE=
+			Ru39H2Nz7mmdK3TvdWtp9wNFR7ENy0l1CSo9PnkdPP8=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/scratchr2_comments.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lFeUAEa739CwAxt+vtInKIaxgSHTFi4jJMpz/Xe+dj4=
+			J3DbEGUBcfwfSwSUxn4kzggEg3WTgnRWcBQ8shvWO5o=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/scratchr2_errors.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldieEwVtVxc47QNghYBEdPU+NPKtcntK+VvmKm685bI=
+			MHOsTcZ/lzDvMlrFi7pSZ9tuBS0OSx/tgnl+Mdn78AE=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/settings.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FIfam2658ZyAkQhp3pCwxOeZvwX+dE8slKZLImp5770=
+			+uwUg3/gDDg509Ou25PhUjRFsvYwT2tSxUgvPXxBGzs=
 			</data>
 		</dict>
 		<key>Resources/addons/scratchr2/studio.css</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZhXhwCmHrkCJ02spoPB/9qKUH8NI1T3/E8Gt8sv400A=
+			+zOnRZnaH4F7kAGeFbfSB/+8TMcGYMOoceXUmK4oN7M=
 			</data>
 		</dict>
 		<key>Resources/addons/search-profile/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6dLAMa1aEDFSbqZX87lCW/EJQvB5jUQBF2JTT6y/B8=
+			ONZWfS+ly8RD9B3+hf6DUUMqx4IpGiXzgXwPYLnS+D0=
 			</data>
 		</dict>
 		<key>Resources/addons/search-profile/user.svg</key>
@@ -1621,224 +1841,224 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CFf0hQ8+9JILCFNygEpmg0KNmVYAlrvKC8f1GG70BG8=
+			HXoXRClPwMNeyW4+bmpElxJlV+IBCf4pCZbkB7bQ7BI=
 			</data>
 		</dict>
 		<key>Resources/addons/studio-tools/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pJSu6ME5sVG0E+JNxw5j0eUrPwfJ5SFmDlSO/5l6kzs=
+			//6apOKV9IHsf5hbItUTwHhu8KxIgiyTu8c2UYxDOGM=
 			</data>
 		</dict>
 		<key>Resources/addons/studio-tools/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FkccwWFXL+N9uZ1Hij9CvK1a8qtbvNYHZLnfTPDTYyc=
+			VeikTBCKmNJp8f2bDjqBdK0Sn/Xg1MCBl0JeezEoF6A=
 			</data>
 		</dict>
 		<key>Resources/addons/true-youtube-links/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q898r7hZomgJDeXE5mUYJTYNnigRwfRus9eLF/2OxkE=
+			9i3L1lsx+AK6teeIoqawfAnTyzPyiKsCqKtYKz1mJa0=
 			</data>
 		</dict>
 		<key>Resources/addons/true-youtube-links/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QhKEM+oFUOFv94CH7vAFrNuSsg+XQvP8iT7XTAhLPBY=
+			YRyXBexrO79hfgrvmrflMBTBefAiJY7QhAPuu2H+m3g=
 			</data>
 		</dict>
 		<key>Resources/addons/youtube-fullscreen/addon.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q4Si8ls1l9BcZLEkR7QDsh3qhAFut6g0lKD+OgWT9oo=
+			lFW874rMnNBDZRJsscTHBQ7aPiAEfEnXW4D8paMdXnk=
 			</data>
 		</dict>
 		<key>Resources/addons/youtube-fullscreen/userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KwOKjCwaidgvm4qACStXu3+D45xoXc/EvSdKkQK/1kQ=
+			YHsbEO3XtcsdhYom1he/oOQScFceBmunbYBdwGX89m8=
 			</data>
 		</dict>
 		<key>Resources/background/background.html</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r0pWUdKYFYT34W9ISRGPvxy0+DQ2FJVx0nddUNll+tQ=
+			yvXAQ7T67GhLPoP4YvxQHrjlKRmGs3T8O++WI5yQxv8=
 			</data>
 		</dict>
 		<key>Resources/background/declare-scratchaddons-object.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oaaqt3oqzJSM+jR8uZXzcEuGcggMkXTiowXvFCPqeg0=
+			lCPFxk9ahtw5SXDzdXtDL9dZtd1NGFi44MOc4QJhEUw=
 			</data>
 		</dict>
 		<key>Resources/background/get-addon-settings.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ftaLlqojXHqOV546wzLydIQwnpMIkcymzowxYEe4Hc=
+			QOEuzSy5yaj7NcTqcUunKUM5gtRC+s7+KPdLCY8DWlA=
 			</data>
 		</dict>
 		<key>Resources/background/get-persistent-scripts.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuacctE8TNyfgTfA4fliuJEB7aZPkHyFwhNj7jyQZbk=
+			gy0HC0zESUsWY/OiJnjUho1rM09qJOwyCg6LuxfOupE=
 			</data>
 		</dict>
 		<key>Resources/background/get-userscripts.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uRONEu9wQg4R5BhJf1FBSfbTZiKBDapOI0oJyp1P7S8=
+			rYn9+K2hB/fbuRm4o9ln7U/M4HFLWDlykTY/TzoYYjo=
 			</data>
 		</dict>
 		<key>Resources/background/handle-auth.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZrmoeCNRJaLZALma0MenlOb3Yof87E1j52SrbMWzQd8=
+			vlB7YDTGGwy7eGEwv9+gvRjftMrIXVBRciOZuO/1Dk8=
 			</data>
 		</dict>
 		<key>Resources/background/handle-browser-badge.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nLvTXJOFCdj+TMMY8c35t5BarGz0rHU4lwb+AQ6JwfA=
+			1dN0xCyK45hL9z5dYLkqZV43FP8O+C/5pURbatXbQKA=
 			</data>
 		</dict>
 		<key>Resources/background/handle-clipboard.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RFETBEuY6cbqZsOyI6eNvA4Qzbk4dMXVpQtcJI3yRPU=
+			zfnHVilaY48cqbcjSA+qFTVGBO+K5CpeOQ76tVkpNQ8=
 			</data>
 		</dict>
 		<key>Resources/background/handle-cookie.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f4xD0XHTi9PVGbS8yqXC7M6+fNEZT2CNXx5YJjjYVCk=
+			SX4h8mm/OcPnP2CihuMzHOTRFtr+zLgPc+QiHbV/LvQ=
 			</data>
 		</dict>
 		<key>Resources/background/handle-fetch.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XNw8roSEyWjnwgQzjARFyncdujyrOvOJMOKsqmvuxMY=
+			e4zn2hONbi/lan4mF41VI6wWmWPH9uLFn1mdhI47ev0=
 			</data>
 		</dict>
 		<key>Resources/background/handle-licenses.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ENZ0huX0gfotrqrZmMNszKVpH0y6It41W9f/9+/TWug=
+			oeJ34dqx1KmbSdq9ONi20sgpeb9iaI5+R4jWqOW/Sb0=
 			</data>
 		</dict>
 		<key>Resources/background/handle-messages.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sJmUpmqC1dKYAeY6tXI51wixremZ81VvZW6aJiaFqKQ=
+			ZqvlyDW/M/BvS07jM1eZ4YYrTDJzwqhx1AVJuKVCEI8=
 			</data>
 		</dict>
 		<key>Resources/background/handle-notifications.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XQY2jKa0enOf0nTLfO/Mqm990srmVs+vOUQpZjnBPDM=
+			bS0/SzxOlD+rfhEUt0IX8QgUXKmDEOeaiup5Eg0cnpg=
 			</data>
 		</dict>
 		<key>Resources/background/handle-settings-page.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			btCTUggyKViIX9bN7P1XW//QwPU2J8RsfC5v8cHYzRk=
+			p/yUZ4rNPFgo8GwCsXpRG5CEXkQ8JnkdVjaH29aVJd0=
 			</data>
 		</dict>
 		<key>Resources/background/imports/global-state.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ntfJKrqRRqzXASYiyDd/CVIZOiCLmOIrdvtZzTTK7KI=
+			G1JPwvOix2UNTL7A4SH8uUgrdmccbLspt7KaW4EXVm0=
 			</data>
 		</dict>
 		<key>Resources/background/imports/local-state.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuemDUXL81m+HY3HCTwIMXF2hQDeosj8FNMjXZ6YXgQ=
+			38sC5qKA7rx7F4rOVSKZr1hBFi9Sy5hneSquThxFXKo=
 			</data>
 		</dict>
 		<key>Resources/background/imports/run-persistent-scripts.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Aj1h1YwJ/dfhLwljJhoSAqap1OuhDQRovbOayq0VKS4=
+			7igICkV+AL9oeDG6obeqAiz7QbrAu5skXxQA9r2kxUo=
 			</data>
 		</dict>
 		<key>Resources/background/load-addon-manifests.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kwVwKSFPZCdjwFMugAAI6/zGbsvcsk8dCsrVUUo1C4Y=
+			OtoU/ofpMxqLP/3cnGZujxDAheS1QesBKfgPEjn+B4o=
 			</data>
 		</dict>
 		<key>Resources/background/transition.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kbb0JHjXav8OmRqwAjRALUW14bS1E0N14nMI2nSlqgQ=
+			OqJsqatbKLOuCMm7r5au1u03f2/EzkS/NfIUbxYvWP8=
 			</data>
 		</dict>
 		<key>Resources/content-scripts/cs.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ddrTH9q4bnHXjkcSGv6TQnTX91E4UUzNJrZM0UGvJL8=
+			jzteya2y+f2o/+fcSYZS9mxGoKrPh6hbmYRFDHJUTPI=
+			</data>
+		</dict>
+		<key>Resources/content-scripts/fix-console.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iW0yZxP/1aKQGeSg3JBTi3colm/OS1xkd3rr4KQ+d94=
 			</data>
 		</dict>
 		<key>Resources/content-scripts/inject/module.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ySGXUNMvb1ZZGHTY91YL36jD/0/QIVM12y2SXbH558A=
+			DwjFk/1Z6bij9MsXDrzyF2JPLLW000zBytV/iW6ptUA=
 			</data>
 		</dict>
 		<key>Resources/content-scripts/inject/run-userscript.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K8n0TN7i30c92e4hyjG2wvmtBytgTNEBTxZbvTgpmtQ=
+			Pn9rIWXREn4NEEq1cTUByRsOlJFkPb7xfWk0l/Qh8aA=
 			</data>
 		</dict>
 		<key>Resources/content-scripts/load-redux.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mtyu2v0Vmf3DaWIlnqMQAJbdXrKt6Bnhb2/7jKZgvbA=
+			1Rw14zSfN/E6ChJO4fbxzcvL6VmYD+7UD7cBgTId57Y=
 			</data>
 		</dict>
 		<key>Resources/content-scripts/prototype-handler.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cEnbHZiCCBCLM9PGTQOs+SGYU9DJxiyKIvjthC+gk3M=
-			</data>
-		</dict>
-		<key>Resources/content-scripts/sa-embed.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XZw1cRjrJGAt73s5i9dNme1/2m9/9i/GOBx/RfqTuJY=
+			crl12ANkpXnSSVf+L/JzgJ+lXu8mcwhr/PBO9N7QDd8=
 			</data>
 		</dict>
 		<key>Resources/images/extension-icon.png</key>
@@ -1852,7 +2072,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yeN3Ne9KcRu3z2KqKWKBb8F2mo+3PYqYRgYWoIY6haY=
+			qF9YzfgCZk0rvNCF9jhMhduYKR8JsFJdAfB+lDExMf0=
 			</data>
 		</dict>
 		<key>Resources/images/icon-16.png</key>
@@ -1894,273 +2114,350 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5T53ALPejMcxgIgLvD+OFbzmCENRrPJ6/mdqBycT95Y=
+			RR05Onu1H8Y0DkWfzdR4aHtbcwanE07jOjUPSfzGEqM=
 			</data>
 		</dict>
-		<key>Resources/libraries/Sora.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5zB0/b5GP7XvBYjs5osibg5a9dWp2sN4+raR8QmGS9c=
-			</data>
-		</dict>
-		<key>Resources/libraries/data-url-to-blob.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Nty1iZuCmauX6G0IYgPgh8pG4a8YqE88FDelLo/XKRk=
-			</data>
-		</dict>
-		<key>Resources/libraries/license-info.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m14oJvq4TYBpYXEM6V4qHQOKgUwiJN9A0vuvK/hqGds=
-			</data>
-		</dict>
-		<key>Resources/libraries/licenses/MIT.txt</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Rza103klOvpFdEr8ed20dZErIT6Tm998uX2ai29wDl8=
-			</data>
-		</dict>
-		<key>Resources/libraries/vue.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0UXrCPFwcTC7xfUWxn7DTtVpwPizileVACRqrqgldqc=
-			</data>
-		</dict>
-		<key>Resources/manifest.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J53O0T7R7csMEJ+UC5v1TB2SizVMlAFo+O9lfZkQCkA=
-			</data>
-		</dict>
-		<key>Resources/popups/cloud-games/light.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bV/jUzROuWJZoJ/Q2SN7BsZqBb924/OC4WVDDSp21as=
-			</data>
-		</dict>
-		<key>Resources/popups/cloud-games/popup.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3ZTw5XL1xVsls9zSY+uAzXf90orPM/qxYTuyqdmpYPo=
-			</data>
-		</dict>
-		<key>Resources/popups/cloud-games/popup.html</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uh5gTWncrtnPMLVzv/Z/d3bWOFW8/1/OLgUdlyonyH4=
-			</data>
-		</dict>
-		<key>Resources/popups/cloud-games/popup.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c9tYkfIg2WKd7lv/NdGvkqKYvtHfYs0duHDKaWNP+Bs=
-			</data>
-		</dict>
-		<key>Resources/popups/scratch-messaging/light.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GgdwuucNtcOJ6KMS4V2Zp1DXehr31DJKodOchK8FKjU=
-			</data>
-		</dict>
-		<key>Resources/popups/scratch-messaging/popout.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NgY1OMbH1Tl0FU0pFbm5uRUBWrL2Qp2LBl0WFBl9xLc=
-			</data>
-		</dict>
-		<key>Resources/popups/scratch-messaging/popup.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			n+beZSfl87Ll4kgK1X4SEbnYapjKNmNUttYKgqFURw4=
-			</data>
-		</dict>
-		<key>Resources/popups/scratch-messaging/popup.html</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yE4ILFeOH8Bipia9JIoRKRmRQtdblCeUO9fovbB3iDs=
-			</data>
-		</dict>
-		<key>Resources/popups/scratch-messaging/popup.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rjd/k5fMOj+q1ROSWP+NzkRV4MHJpjTtQ3/fqaywGCs=
-			</data>
-		</dict>
-		<key>Resources/webpages/popup/index.html</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YTBsfr/EGfsgyV/F1O2MPGmerVvZAuJaPGT+dikypgM=
-			</data>
-		</dict>
-		<key>Resources/webpages/popup/index.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Pa7Rt8o1RW3c5J63jZ3TCpWWhtPVW3HSkIO8dnkUe9s=
-			</data>
-		</dict>
-		<key>Resources/webpages/popup/light.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q2AQ+wECkiFMxcVvtebRB6pygHwkOrvtGW//hHtLD04=
-			</data>
-		</dict>
-		<key>Resources/webpages/popup/popout.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NgY1OMbH1Tl0FU0pFbm5uRUBWrL2Qp2LBl0WFBl9xLc=
-			</data>
-		</dict>
-		<key>Resources/webpages/popup/settings.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c0CKRCyH79g8fgRzU0psvWdI249g2cv51kD2Tnb0XcA=
-			</data>
-		</dict>
-		<key>Resources/webpages/popup/style.css</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T5Hu2hVCkLO8S2AAiYc12qA1nRscl9+zaI9DCL0L5Zw=
-			</data>
-		</dict>
-		<key>Resources/webpages/settings/brush.svg</key>
+		<key>Resources/images/icons/brush.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			8mXOqkL/VD6j/DiWe4kMvX9Ix9Sncp0of8r5Sw8B8Bs=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/credits.svg</key>
+		<key>Resources/images/icons/cloud.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/SHuYO9az2RNw/IdkmJt38JuMkAJEmlIVQLWEb43fEM=
+			JRbyYm7ulTMxqZjDxlUrEHmiblYNIWKXDnKxbBklJuo=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/expand.svg</key>
+		<key>Resources/images/icons/comment.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lzKhgh8O0NfhMk0X/ZxlaWlg1k8w10JfCOS9PAeWmkw=
+			</data>
+		</dict>
+		<key>Resources/images/icons/envelope.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mYQwKtf+A8PGWkLTIbbrHcjB1/YEzk8AEdG+ogQ/MBA=
+			</data>
+		</dict>
+		<key>Resources/images/icons/expand.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			klQvYLa8BSm5o9wrpkR7hUw0Qt3EJuWufVV6WBEYcnI=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/feedback.svg</key>
+		<key>Resources/images/icons/follow.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0JDta7eueO/fQw1GzXoZIchBR8l98+1VVBeE5F+NBi4=
+			xnTsaJXecLqOIkn3Hig5kX0r5zbksklnp6PCL98bAV4=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/index.html</key>
+		<key>Resources/images/icons/forum.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gVIQN9BoWiFp0S3X0wh9PR9fp3hYTxTlCXZC2oRdHB8=
+			eM1irXIF8MxAraQIJaoYDUQlLt6lPaOqzBkyfhoqsKo=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/index.js</key>
+		<key>Resources/images/icons/heart.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0guSs3sKJlcsz7sB2SR9AhABUdB/NDtXO+q9SPwU11I=
+			EB/TFmCsA4yebbOhj/PPpugw//Pi0bP8Kiw/PNNIKQQ=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/licenses.html</key>
+		<key>Resources/images/icons/list.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uuqXWj0jT4v7k5XC5u640SG1mwzbQSqv/V/0WddpkA0=
+			ADTnOZZwTqGipbg7Dg6c2Hs8IZbQ00dJ8LmWX6IDM/4=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/licenses.js</key>
+		<key>Resources/images/icons/moon.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SvFuf5otq5yde3vjU0/FcuBaXwweAy6Shha9rx9Qd/g=
+			WJEkFilE34Q4GOAqktQzm7cT7KQnRsEfHjn3NWEAHwQ=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/light.css</key>
+		<key>Resources/images/icons/plus.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bWpWn5Lgi2oVvsScOm2UuL0Bl+BYDBSBRiF0ZXIXQfs=
+			1vXJoYVst5nSwxcB2Lv5bzWT4ZKf/QHRXh9yQWVAwDI=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/list.svg</key>
+		<key>Resources/images/icons/popout.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bs0c9nL4DYdj1JuGwC6317X2Z9q1OnOh9z9yy3avNME=
+			Es8LXHfWCOCEVnF+xYG7AbOSinY8v2y/PxMCN9VD1Bs=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/puzzle.svg</key>
+		<key>Resources/images/icons/puzzle.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			zSYLiDw9wGdHmGrcvPum76Sfg+ekKNJEHF87qofBAgM=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/review.svg</key>
+		<key>Resources/images/icons/read.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NnJXgordZ3qwAZFBZ59jB+Y2LJtRMYGlHVFvbqPRzwo=
+			cpCyOudPzADAtT1KdXlYrufX4DnN+T6fZEG6aVlP7Qs=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/style.css</key>
+		<key>Resources/images/icons/reload.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B48+b0aR3ch75DMCalF2fwiShAN/wU5fvOqQxK3wKWk=
+			Fs0howMsiNyhfTT0O5WQq79qjrTW2bEdKQILh9ZG30M=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/theme.svg</key>
+		<key>Resources/images/icons/remix.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NqiWVgTwt+gIhfgk/7xRiTdxUfUjSH1P/8XhziXhvOA=
+			</data>
+		</dict>
+		<key>Resources/images/icons/settings.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c0CKRCyH79g8fgRzU0psvWdI249g2cv51kD2Tnb0XcA=
+			</data>
+		</dict>
+		<key>Resources/images/icons/star.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BE64DxurZmanAB7tXMNcAzJqyKnTIR4FXSagjQqpBb0=
+			</data>
+		</dict>
+		<key>Resources/images/icons/studio-add.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FIEQ31+X5V8um8j6g0DDSc2LdJVH4E46u5mvIyq/xZo=
+			</data>
+		</dict>
+		<key>Resources/images/icons/studio.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			twK5AHNPRui4qKWpgWmJ4aoRFFcjjAUH/QSuEsDNOQo=
+			</data>
+		</dict>
+		<key>Resources/images/icons/theme.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			xEpIvB2UbDx9tr99QkjHW4CcJ5n+zR5z0Xhi9u4zSvw=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/undo.svg</key>
+		<key>Resources/images/icons/undo.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			hdoS9EhQwl9CKRWv+JXyWF54B9SD4ZjZS6+Ia4TxLYc=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/web.svg</key>
+		<key>Resources/images/icons/users.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H1ItukHRjRV5hHitpH24LBmO6QdPII+5YRv8HdF6J4s=
+			</data>
+		</dict>
+		<key>Resources/images/icons/web.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			V0wqfpP2UMmSbZXb9MzxX7+Qif5LSqijRFGNIFriXcU=
 			</data>
 		</dict>
-		<key>Resources/webpages/settings/wrench.svg</key>
+		<key>Resources/images/icons/wrench.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			c7z7M7+d/pimjCgyTIO45OpC048u1BPmapz4g7X9Ubs=
+			</data>
+		</dict>
+		<key>Resources/libraries/Sora.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WVbB4jann67a55KZuvxCkpa6XMpODXqhNtWUoDmKRuk=
+			</data>
+		</dict>
+		<key>Resources/libraries/data-url-to-blob.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0X8hzhLfZOLHFQZ8F6EOw4OtloCYjGWOt/UUa55aWzc=
+			</data>
+		</dict>
+		<key>Resources/libraries/license-info.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YGQo679RD3yKvRjYsPiwzut2Gna/pifaUqFKAfk6Q5Q=
+			</data>
+		</dict>
+		<key>Resources/libraries/licenses/MIT.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/YCib7s/ZErx+plBNERnApMpaFGXlyJ+B6E2jeqA8Lw=
+			</data>
+		</dict>
+		<key>Resources/libraries/vue.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XSuHQ+WeqQRENwlHgrLALdg4Tqa4kOQBg8I6vcnFnUs=
+			</data>
+		</dict>
+		<key>Resources/manifest.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UFKnY+F9yN5CJuLPvvgxeQBZm1pJNk/40tvUd2hWEIE=
+			</data>
+		</dict>
+		<key>Resources/popups/cloud-games/light.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yO5pZNt09A5GLfcUBT3wizCr58DXfenCOFiZqOQ/HU8=
+			</data>
+		</dict>
+		<key>Resources/popups/cloud-games/popup.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O9bRUPlC+GDn78BGfMub076aNvl6h0FpsTcLPbJQes4=
+			</data>
+		</dict>
+		<key>Resources/popups/cloud-games/popup.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i95bezwSrgDfwlus/z5hlzYsJbm9UPpL5YkQQskz4lE=
+			</data>
+		</dict>
+		<key>Resources/popups/cloud-games/popup.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nbApAOKOdbZz3PsFxFrXE1bAMgM5kAeBgNcoF0tS8S8=
+			</data>
+		</dict>
+		<key>Resources/popups/scratch-messaging/light.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lFsGezOl+mKE9PccmyGuh/JiKRlePx5jFDybm8qJJLI=
+			</data>
+		</dict>
+		<key>Resources/popups/scratch-messaging/popup.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hW9U/QNCpz3CtHxm10QIx79g2AxX4DjPoO9REl4Zm8E=
+			</data>
+		</dict>
+		<key>Resources/popups/scratch-messaging/popup.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/dE64glmZ+SdV0ECWbbxAPr3PyYxwH9m8xHjchAkzt0=
+			</data>
+		</dict>
+		<key>Resources/popups/scratch-messaging/popup.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XQJQD+Yr94L9r65Rrp0hC5yuZ/VM8BEhJMYGEOenmHw=
+			</data>
+		</dict>
+		<key>Resources/webpages/popup/index.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yL2/+MOAUdKeaVfeYzJ+YQHtxnKe0uWZ3/0jtLQGUn4=
+			</data>
+		</dict>
+		<key>Resources/webpages/popup/index.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SRZ2KP3+2UmLERtj1RMViWengpoRMyyTPCg+8MZ55A8=
+			</data>
+		</dict>
+		<key>Resources/webpages/popup/light.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Taocg/8rBDCfqy9JqNaTv5+MCHVtF9eTKuQgTZjcTic=
+			</data>
+		</dict>
+		<key>Resources/webpages/popup/style.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iKD8feCW4mnIapgCFkt2g1y+EYFpofz5AqHDkz7vTDE=
+			</data>
+		</dict>
+		<key>Resources/webpages/settings/index.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/rOelGE/i/LTKxG7199/4O2TE5Y0P5Rep40ZMBdEG00=
+			</data>
+		</dict>
+		<key>Resources/webpages/settings/index.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PVO9/NDposoG3jATich2XLOTJVR6RthaVCDeXA4aSXU=
+			</data>
+		</dict>
+		<key>Resources/webpages/settings/licenses.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AYlfrKnoTjaemGy0f9ta6UNZZVQ2m7OCmwVL6AM27GI=
+			</data>
+		</dict>
+		<key>Resources/webpages/settings/licenses.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Am86QgLHExwFs2oMPGHPntSiW9E4ZrPoJ3i/rRVY8lY=
+			</data>
+		</dict>
+		<key>Resources/webpages/settings/light.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ffwK0CjJe3BwzlmOlaxJyvOgZwPtRr/OMkyZllVXPYw=
+			</data>
+		</dict>
+		<key>Resources/webpages/settings/style.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			utkpNCVAVz1cHao0AIG2g1YTu2JkjpqAZFM2kEQzwfY=
 			</data>
 		</dict>
 	</dict>
